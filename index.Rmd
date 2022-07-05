@@ -1,0 +1,14 @@
+---
+title: "Teaching Portfolio"
+author: "Apurva Nakade"
+date: "`r Sys.Date()`"
+output: pdf_document
+documentclass: book
+github-repo: apurvanakade/Teaching-Portfolio
+url: https\://github.com/apurvanakade/Teaching-Portfolio
+description: Teaching Portfolio.
+site: bookdown::bookdown_site
+---
+# Welcome {.unnumbered}
+
+Initializing bookdown for teaching portfolio.
