@@ -1,0 +1,95 @@
+# Teaching Experience 
+
+Below is detailed information about some courses I've taught in the past. 
+A complete list can be found in my [CV](https://github.com/apurvnakade/PDFs/blob/main/CV.pdf).
+
+- [Northwestern University, 2021 -](#northwestern-university-2021--)
+  - [(MENU) Linear Algebra and Multivariable Calculus](#menu-linear-algebra-and-multivariable-calculus--)
+  - [Introduction to Optimization](#introduction-to-optimization--)
+  - [Foundations of Mathematics](#foundations-of-mathematics--)
+  - [Elementary Differential Equations](#elementary-differential-equations--)
+- [University of Western Ontario, 2019 - 2021](#university-of-western-ontario-2019---2021)
+  - [Algebraic Topology](#algebraic-topology--)
+    - [Topology Bootcamp](#topology-bootcamp--)
+  - [Discrete Structures for Engineering](#discrete-structures-for-engineering--)
+  - [Calculus II for Mathematical and Physical Sciences](#calculus-ii-for-mathematical-and-physical-sciences--)
+  - [Calculus I for Mathematical and Physical Sciences](#calculus-i-for-mathematical-and-physical-sciences--)
+  - [Topics in Category Theory](#topics-in-category-theory--)
+- [Johns Hopkins University](#johns-hopkins-university)
+  - [Honors Single Variable Calculus](#honors-single-variable-calculus)
+  - [Symmetries & Polynomials](#symmetries--polynomials)
+  - [Hitchhiker's Guide to Algebraic Topology](#hitchhikers-guide-to-algebraic-topology)
+  - [Differential Equations with Applications](#differential-equations-with-applications)
+  - [Online Linear Algebra](#online-linear-algebra)
+- [Canada/USA Mathcamp](#canadausa-mathcamp)
+  - [Academic Coordinator](#academic-coordinator)
+  - [Graduate Student Mentor](#graduate-student-mentor)
+
+## Northwestern University, 2021 -
+
+### (MENU) Linear Algebra and Multivariable Calculus {-}
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
+### Introduction to Optimization {-}
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
+### Foundations of Mathematics {-}
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
+### Elementary Differential Equations {-}
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
+
+
+## University of Western Ontario, 2019 - 2021
+
+### Algebraic Topology {-}
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
+#### Topology Bootcamp {-}
+
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
+### Discrete Structures for Engineering {-}
+
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
+### Calculus II for Mathematical and Physical Sciences {-}
+
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
+### Calculus I for Mathematical and Physical Sciences {-}
+
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
+### Topics in Category Theory {-}
+
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
+## Johns Hopkins University 
+
+### Honors Single Variable Calculus  {-}
+
+### Symmetries & Polynomials  {-}
+
+### Hitchhiker's Guide to Algebraic Topology  {-}
+
+### Differential Equations with Applications  {-}
+
+### Online Linear Algebra {-}
+
+## Canada/USA Mathcamp
+
+### Academic Coordinator  {-}
+
+### Graduate Student Mentor {-}

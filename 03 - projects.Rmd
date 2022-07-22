@@ -1,0 +1,49 @@
+# Projects
+<!-- TODO: add more details about various projects. -->
+
+## OER Grants
+
+## Causeway Postbaccalaureate Program
+I am a mentor for the [Causeway Postbaccalaureate Program](https://sites.northwestern.edu/causeway/)
+at Northwestern University for the 2022-23 academic year.
+
+## Northwestern Emerging Scholar's Program 
+I am a co-director of the [Northwestern Emerging Scholar's
+Program](https://www.math.northwestern.edu/undergraduate/prizes-competitions-organizations/northwestern-emerging-scholars.html).
+
+## Directed Reading Program 
+I’ve helped *start* and organize the [DRP at
+UWO](https://www.math.uwo.ca/undergraduate/current_students/directed_reading_program.html) and in
+the past have co-organized the [DRP at JHU](https://math.jhu.edu/drp.html). The Directed Reading
+Program is a program in which undergrads are paired with a graduate student/postdoc whose interests
+align with theirs and they study a topic of their choice for one semester. It is intended to help
+motivated students explore topics in more depth than possible in a classroom setting. 
+
+## Project NExT
+Mathematical American Association’s [Project
+NExT](https://www.maa.org/programs-and-communities/professional-development/project-next) (New
+Experiences in Teaching) is a professional development program for new or recent Ph.D.s in the
+mathematical sciences. It addresses all aspects of an academic career: improving the teaching and
+learning of mathematics, engaging in research and scholarship, finding exciting and interesting
+service opportunities, and participating in professional activities. For me the greatest value of
+this program is the opportunity it provides to connect to with and learn from other math educators
+from all over the country. 
+
+## PFFF Teaching Academy
+I have obtained a [teaching certification](https://ctei.jhu.edu/teaching-academy/coc) from the
+[Teaching Academy at JHU](https://ctei.jhu.edu/teaching-academy). The Teaching Academy's Certificate
+of Completion program is designed to help prepare Ph.D. students and Post-doctoral Fellows for
+academic careers and to provide assistance in acquiring a foundation for the teaching
+responsibilities associated with their first faculty appointments. This program exposed me to the
+concept of teaching as scholarship and really got me interested in my current career as a math
+educator.
+<!-- FIXME: Fix the last line. -->
+
+## Formalization in LEAN
+
+## Workshops
+- Northwestern Teaching Alliance
+- SIMIODE Workshop
+- CIME Workshop
+- Mastery Grading 
+- Project NExT

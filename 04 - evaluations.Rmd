@@ -1,0 +1,15 @@
+# Teaching Evaluations
+
+## Awards 
+
+## Student Evaluations
+
+## Peer Evaluations
+  In Winter 2020, I participated in the Teaching Mentor Program at UWO.
+  The Teaching Mentor Program is a cohort-based hands-on learning experience, wherein participants
+  work with a group of 4-5 interdisciplinary graduate students and postdoctoral scholars to observe
+  and offer feedback on one another's teaching. Groups will meet multiple times over the course of
+  the semester, to act as students in one another’s teaching demonstrations. My group had four
+  participants whose feedbacks are attached at the end of this document.
+  
+  <!-- TODO: Figure out a way to embed pdf both in html and in latex. -->

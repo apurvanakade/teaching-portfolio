@@ -9,6 +9,27 @@ url: https\://github.com/apurvanakade/Teaching-Portfolio
 description: Teaching Portfolio.
 site: bookdown::bookdown_site
 ---
-# Welcome {.unnumbered}
+# Introduction {.unnumbered}
 
-Initializing bookdown for teaching portfolio.
+I’m a postdoctoral lecturer in the Department of Mathematics at the University of Northwestern
+University. Before coming to Northwestern, I was a postdoctoral fellow at University of Western 
+Ontario from 2019 to 2021. I obtained my PhD from JHU in 2019 with a thesis titled An application of
+the h-principle to Manifold Calculus. 
+<!-- FIXME: Fix this line. -->
+
+My academic responsibilities have included  
+
+- coordinating and teaching multi-section courses
+- managing TAs 
+- creating content for OER texts  
+- to adapting large service courses for asynchronous education.  
+- to managing and teaching in-person courses with several hundred students, 
+- creating advanced electives and short bootcamp courses for small groups of students, 
+<!-- FIXME: Clean this list of responsibilities. -->
+
+I have taught topics spanning calculus, linear algebra, discrete math, proof checking using computers, manifolds, and topology.
+<!-- FIXME: Update list of courses. -->
+
+My current focus has been on finding ways of incorporating technology into my classes and make the
+classes more relevant useful to students interested in applied fields. 
+<!-- TODO: Add more meaningful information here. -->

@@ -1,0 +1,37 @@
+# Teaching Statement
+
+<!-- TODO: Do a second pass through the teaching philosophy and start converting bullet points to paragraphs. -->
+
+My current understanding of learning (and teaching) is a multifaceted 
+
+Instead of trying to define what teaching and learning is for me, I've adopted a more
+improvisational view toward teaching. I see a course as a complex ecosystem consisting of students,
+instructors, TAs, lectures, homework, exam, etc. 
+
+**Diversifying modes of instruction**
+- use of excel in optimization 
+- using modeling as ...
+- using discussion sessions for ...
+
+**One-on-one mentoring**
+- office hours 
+- Causeway program 
+- DRP 
+
+**staying a student**
+- attend frequent workshops
+  - did not forsee this benefit but now take it very seriously
+- work on hard problems 
+  - LEAN
+
+**understanding the human elements and limitations** 
+- TAs and grading 
+- simplifying course structures 
+- providing multiple modes of assessments 
+  - zybooks 
+
+
+**goals for the future**
+- collaborate with other departments to create courses appealing to a broader set of students 
+- find ways to reach out to students outside the university setting 
+- undergraduate research 
