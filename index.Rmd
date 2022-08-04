@@ -3,7 +3,7 @@ title: "Teaching Portfolio"
 author: "Apurva Nakade"
 date: "`r Sys.Date()`"
 output: pdf_document
-documentclass: book
+documentclass: report
 github-repo: apurvanakade/Teaching-Portfolio
 url: https\://github.com/apurvanakade/Teaching-Portfolio
 description: Teaching Portfolio.
