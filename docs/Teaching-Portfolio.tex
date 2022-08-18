@@ -1,0 +1,583 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{report}
+\usepackage{amsmath,amssymb}
+\usepackage{lmodern}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{5}
+\usepackage[margin=1in]{geometry}
+\usepackage[symbol]{footmisc}
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\usepackage[]{natbib}
+\bibliographystyle{plainnat}
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same} % disable monospaced font for URLs
+\hypersetup{
+  pdftitle={Teaching Portfolio},
+  pdfauthor={Apurva Nakade},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+
+\title{Teaching Portfolio}
+\author{Apurva Nakade}
+\date{2022-08-18}
+
+\begin{document}
+\maketitle
+
+\thispagestyle{empty}
+
+{
+\setcounter{tocdepth}{2}
+\tableofcontents
+}
+\hypertarget{introduction}{%
+\chapter*{Introduction}\label{introduction}}
+
+
+I'm a postdoctoral lecturer in the Department of Mathematics at the University of Northwestern
+University. Before coming to Northwestern, I was a postdoctoral fellow at University of Western
+Ontario from 2019 to 2021. I obtained my PhD from JHU in 2019 with a thesis titled An application of
+the h-principle to Manifold Calculus.
+
+My academic responsibilities have included
+
+\begin{itemize}
+\tightlist
+\item
+  coordinating and teaching multi-section courses
+\item
+  managing TAs
+\item
+  creating content for OER texts\\
+\item
+  to adapting large service courses for asynchronous education.\\
+\item
+  to managing and teaching in-person courses with several hundred students,
+\item
+  creating advanced electives and short bootcamp courses for small groups of students,
+\end{itemize}
+
+I have taught topics spanning calculus, linear algebra, discrete math, proof checking using computers, manifolds, and topology.
+
+My current focus has been on finding ways of incorporating technology into my classes and make the
+classes more relevant useful to students interested in applied fields.
+
+\hypertarget{teaching-statement}{%
+\chapter{Teaching Statement}\label{teaching-statement}}
+
+\hypertarget{teaching-philosophy}{%
+\subsubsection*{Teaching Philosophy}\label{teaching-philosophy}}
+
+I believe that the best way to learn math is through making mistakes, getting confused, and struggling toward a solution. I consider myself a coach and a facilitator and teach with the core philosophy that my primary goal is to provide my students with a welcoming and inclusive environment where experimentation is encouraged and honest mistakes aren't penalized.
+I use active learning techniques in all my classes.
+I believe that a math classroom is a place for students, and even the instructor, to grow as mathematicians.
+
+My teaching experience ranges from creating advanced electives and short bootcamp courses for small groups of students, to managing and teaching in-person courses with several hundred students, coordinating multi-section classes, and adapting large service courses for asynchronous education. I have contributed to open source texts using technologies such as Webwork, Pretext, and RMarkdown and I'm involved in the long-term project of math-formalization using the Lean theorem prover. I have taught topics spanning calculus, linear algebra, differential equations, discrete math, linear programming, proof checking using computers, manifolds, and algebraic topology.
+
+\hypertarget{use-of-technology}{%
+\subsubsection*{Use of Technology}\label{use-of-technology}}
+
+Students retain their knowledge better when they engage with a subject through multiple modalities. I find technological tools to be perfect for accomplishing this. I have used Excel worksheets for modeling linear programming scenarios, used an online textbook which had (compulsory) interactive activities scattered throughout, and made short introductory videos embedded them directly in a textbook.
+Student responses for these have been overwhelming positive, most commenting that they're likely to retain what they've learned this way in the future.
+
+\hypertarget{diversifying-assessments}{%
+\subsubsection*{Diversifying Assessments}\label{diversifying-assessments}}
+
+While I understand exams to be invaluable assessment tools, I also realize that students sometimes do poorly in exams not because of a lack of understanding but because of other factors such as exam anxiety and lack of exam-taking skills.
+Moreover, traditional exams do not faithfully represent the challenges students are likely to face in real life.
+In every course I teach, I try to provide a variety of assessments so that students aren't stifled by any extraneous factors. In my Optimization course, students had to submit an Excel Workbook involving several modeling exercises instead of taking a final exam. For Discrete Math, we created a repository of new WeBWorK problems over the summer and replaced in-person exams with ones on WeBWorK and Zoom. Students also had to submit weekly short auto-graded assignments within the textbook which provided immediate feedback. For Algebraic Topology course, I replaced the final exam with an oral exam and a written report as I was more interested in testing students' ability to approach a challenging problem than actually getting a rigorous proof in a short amount of time.
+
+\hypertarget{course-design}{%
+\subsubsection*{Course Design}\label{course-design}}
+
+I continually update my courses as every cohort of students is unique.
+I try to imagine the course from students' perspective and try to adapt it to their current level of mathematical maturity and am constantly vigilant of the expert's blind spot.
+It is very important for me that my course is meaningful and intellectually fulfilling to students.
+For example, I completely restructured the Optimization course to make applications and modeling an essential component.
+I wrote my own notes using RMarkdown as I did not find books with the right mix of theory and applications.
+I have designed and taught a fully flipped Honors Single Variable Calculus.
+At Canada/USA Mathcamp, I had to develop and teach a short five-day class every week for five weeks while being involved with other camp activities;
+I could not have asked for better training grounds for course design.
+
+\hypertarget{classroom-environment}{%
+\subsubsection*{Classroom Environment}\label{classroom-environment}}
+
+I make great efforts to ensure that a course syllabus is welcoming and encouraging, being the first document that students see.
+While teaching online during Covid, my priority was to alleviate student anxiety and ensuring that students were not disadvantaged because of lack of face-to-face meetings and technical difficulties.
+After each (autograded) exam, I went through all student responses to reassign any points lost due to minor typos and system errors.
+I also maintained an active discussion forum on Piazza to foster a sense of community.
+I have taught huge coordinated courses where I was the sole point of contact for over 150 students.
+This challenging experience taught me how to be more inclusive and considerate of students from very diverse backgrounds and to ensure that even those who had other priorities could benefit from learning math in whatever way possible.
+
+I strive to get students to understand the messy process of discovery in math rather than just provide them with a misleading sanitized version of it.
+My classes are fun, interactive, and often times flipped.
+I greatly value one-to-one interactions as these allow students to get to know me as an individual.
+It is important for me and valuable for students to see me struggle and make mistakes.
+I hold a lot of office hours in a collaborative space that encourages group work.
+My office hours always have a high attendance.
+I memorize all of my students' names so that I can connect with them on a personal level.
+\% Of late, I've started holding Zoom office hours in addition to in-person ones which has further increased attendance.
+
+\hypertarget{professional-development}{%
+\subsubsection*{Professional Development}\label{professional-development}}
+
+I try to keep myself updated on advancements in pedagogical techniques and make an effort to learn from others teaching experiences.
+I am a member of the Project NExT'20 cohort, a professional development program sponsored by the MAA for math educators at the university level.
+I have completed a certification course at the Teaching Academy at JHU where I learned about several important pedagogical concepts such as inquiry-based learning, backward course design, learning objectives, etc. which I regularly incorporate into my own teaching.
+I regularly attend the workshops and seminars organized at the Center for Teaching and Learning at both UWO and NU and most recently Open Math Workshops and SIGMAA IBL workshops by MAA.
+In addition to providing me new information and skills, these workshops also allow me to take on the role of a student and stay grounded.
+
+\hypertarget{mentorship}{%
+\subsubsection*{Mentorship}\label{mentorship}}
+
+I find it fulfilling to mentor students outside of the regular classroom setting.
+I am currently mentoring students for the Causeway Postbaccalaureate Program and am a co-organizer of the Northwestern Emerging Scholars program.\\
+I have organized and participated in a Directed Reading Program that pairs undergraduate students with graduate students/junior faculty to undertake independent study projects as a mentor and a co-organizer.
+I started a DRP chapter at UWO here with the help of one of my colleagues.
+
+My biggest influences have come from being a mentor (2017-20) and an academic coordinator
+(2018) at the Canada/USA Mathcamp, a summer program for high school students.
+Mathcamp gave me an opportunity to be a part of a loving and caring community, to be surrounded by people who love math and love to teach it and excel at it.
+I took on the role of an academic coordinator to contribute back to Mathcamp, to challenge myself, and to learn more about teaching.
+The academic coordinators are responsible for designing and running all the academic activities, including, inviting and hosting external visitors, designing a balanced five-week class schedule (nearly 60 classes), assigning (110) students to projects, and teaching.
+
+\hypertarget{future-goals}{%
+\subsubsection*{Future Goals}\label{future-goals}}
+
+My next big goal is to figure out ways to quantitatively assess my teaching and pedagogical effectiveness.
+I wish to teach more interdisciplinary courses that involve student projects and real world applications.
+In the winter quarter, I intend to use SIMIODE textbook, which takes a modeling first approach, for teaching differential equations.
+I am currently contributing to Open Education Resources and wish to expand these projects in the future.
+I am also interested in adapting courses to an online setting in a way that does not trivialize students' learning experiences.
+
+\hypertarget{selected-student-feedback}{%
+\subsubsection*{Selected Student Feedback}\label{selected-student-feedback}}
+
+\begin{itemize}
+\tightlist
+\item
+  This{[}Optimization{]} was the best math class I've taken so far at Northwestern. For the first time, I feel like I will carry the material I learned in class
+  for years and years, as it's so applicative to real world problems.
+\item
+  Optimization is a really useful and practical math course that all math majors should take. It isn't very proof-heavy and focuses
+  more on computation.\\
+\item
+  Apurva is phenomenal! He broke down key concepts with ease, and homework questions went over a variety of different examples.
+  Optimization is interesting as a whole due to it wide applicability in other fields, but I felt this was an enjoyable course because of
+  Apurva
+\item
+  Dr.~Nakade is the best teacher for second-year software engineering. Your recorded lectures are very clear and make me happy as I
+  actually understand after watching them. You seem like a very hard-working professor that truly cares about their students. Thank you!
+  The zybook and PA and CA are just perfect for making me on-track. I'm never behind in this class because of the PA and CA.
+\item
+  The PAs and CAs are helpful and
+  fun and an interactive way that helps me learn the concepts better. I like that I am not punished for when I get an answer incorrect and
+  am instead presented with the solution so I can better understand it while learning. The webworks assessments are also a good and
+  fair evaluation of my understanding
+  (Also, thank you for not using Proctortrack because the idea of it really stresses me out.)
+\item
+  The use of ZyBooks to teach discrete math was an absolute genius move, as the online textbook paired with the instructor videos were
+  extremely clear in explaining and testing knowledge of mathematical concepts. I recommend using it for future years
+\item
+  Apurva is the best Professor. Though his lecture notes can have minor mistakes, he is a very nice guy and you can ask him
+  questions without being intimidated. His office hours are very helpful and talking to him about non--math things are also a lot of fun.
+\item
+  Professor Nakade is so kind and enthusiastic about helping his students learn. This quarter of MENU was definitely challenging
+  (like the other two), but there is a strong system of support from office hours and studying with MENU friends that makes the course
+  doable.
+\item
+  Apurva is very encouraging when you are struggling with a problem and you can really tell that he was excited about math and
+  teaching!\\
+\item
+  He is really passionate about the subject and explains things well. He is very funny and approachable in class, and he gives a lot of
+  opportunities for students to ``check their understanding'' by participating in class, working through problems as a class, etc. He
+  also would always stay after class for questions if anyone had any.
+\end{itemize}
+
+\hypertarget{teaching-experience}{%
+\chapter{Teaching Experience}\label{teaching-experience}}
+
+Below is a list of courses I've taught in the past. I provide details for few of the courses that \ldots{}
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.3909}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.6091}}@{}}
+\toprule()
+\endhead
+2023 Spring\footnote{Northwestern University} & Elementary Differential Equations \\
+2023 Winter & Foundations of Mathematics \\
+2022-23 & MENU Linear Algebra and Multivariable Calculus (Course Coordinator) \\
+2021-22 & MENU Linear Algebra and Multivariable Calculus (Coordinated) \\
+2022 Spring & Introduction to Optimization \\
+2022 Winter & Introduction to Optimization \\
+2021 Fall & Single Variable Calculus (Coordinated) \\
+& \\
+2021 Winter\footnote{University of Western Ontario} & Algebraic Topology \\
+2021 Fall & Discrete Structures for Engineering \\
+2019 Winter & Calculus II for Mathematical and Physical Sciences (Coordinated) \\
+2019 Fall & Calculus I for Mathematical and Physical Sciences (Coordinated) \\
+2029 Fall & Topics in Category Theory \\
+& \\
+2018 Fall\footnote{Johns Hopkins University} & Honors Single Variable Calculus \\
+2018 Winter & Symmetries \& Polynomials \\
+2017 Fall & Honors Single Variable Calculus \\
+2017 Winter & Hitchhiker's Guide to Algebraic Topology \\
+2017 Summer & Differential Equations with Applications \\
+2015 Summer & Differential Equations with Applications \\
+2014 Summer & Online Linear Algebra \\
+& \\
+2017-20 & Various Canada/USA Mathcamp courses \\
+2018 & Canada/USA Mathcamp Academic Coordinator \\
+\bottomrule()
+\end{longtable}
+
+\hypertarget{introduction-to-optimization}{%
+\section{Introduction to Optimization}\label{introduction-to-optimization}}
+
+\emph{Northwestern University, Fall and Winter 2021}
+
+I taught this quarter long course for two quarters in Winter and Spring 2021. The course was aimed at upper level undergraduates majoring in math and economics and covered the topics of linear programming, simplex method, duality theory, and KKT conditions along with applications.
+
+\begin{itemize}
+\item
+  \textbf{Class Notes:}
+  Most textbooks I encountered were either too theoretical or too applied and I did not find a good fit for this course which needed to cover both the aspects. As such, I wrote detailed notes for this course which can be found here: \href{https://apurvanakade.github.io/Introduction-to-Optimization/}{apurvanakade.github.io/Introduction-to-Optimization}.
+\item
+  \textbf{Excel Worksheets:}
+  I designed the course to have both a theoretical and a practical component. The lectures focused on the theory of optimization and the discussion sections on applications. Students had to model and solve optimization problems during the weekly discussion sections using the \href{https://support.microsoft.com/en-us/office/load-the-solver-add-in-in-excel-612926fc-d53b-46b4-872c-e24772f078ca}{Solver tool in Excel}. These were to be submitted at the end of the quarter and formed a significant assessment component.
+\end{itemize}
+
+\hypertarget{menu-linear-algebra-and-multivariable-calculus}{%
+\section{MENU Linear Algebra and Multivariable Calculus}\label{menu-linear-algebra-and-multivariable-calculus}}
+
+This is an year long accelerated course covering the topics in linear algebra and
+multivariable calculus. I was an instructor for this course in 2021-22 and am currently (2022-23) the course coordinator.
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Discussion worksheets:}
+  My primary focus as a coordinator is to reduce student stress without comprimising with the accelerated nature of the course. For this, I reduced the amount of material covered in lectures and created meaningful discussion worksheets to complement the lecture materials. The discussion worksheets also enables me to incorporate an active learning component in the course.
+\end{itemize}
+
+\hypertarget{algebraic-topology}{%
+\section{Algebraic Topology}\label{algebraic-topology}}
+
+In Winter 2021, I taught a semester-long course at UWO on Algebraic Topology aimed at graduate students and upper-level undergrads. The main textbook for the course was Hatcher but I rarely used the book at all. The course covers the fundamental group, covering spaces, and singular homology.
+
+This was a fully online course aimed at upper-level undergraduates and graduate math students covering the basics of algebraic topology.
+
+\href{https://github.com/apurvnakade/uwo2021-algebraic-topology/tree/main/output}{Problem Sets.}
+
+\hypertarget{discrete-structures-for-engineering}{%
+\section{Discrete Structures for Engineering}\label{discrete-structures-for-engineering}}
+
+\emph{Role:} Instructor - Fall 2021
+
+This was a semester long four-credit course offered to second-year software engineering students. Students are introduced to fundamental concepts in discrete math, such as logic, combinatorics, modular arithmetic as well as proof-writing. I am the only instructor for this course, and
+my class has nearly 200 students. I had to adapt the course to fit an online mode of delivery.
+
+Over the summer, I had to adapt a regular Discrete Math course to an online asynchronous setting. While I was preparing for the course, my priority was to reduce student anxiety, simplify the course delivery as much as possible, and minimize the screen time for students.
+
+\begin{itemize}
+\item
+  Textbook:
+
+  I decided to abandon the traditional textbooks and chose an online one, called \href{https://learn.zybooks.com/zybook/UWOMath2151ANakadeFall2020}{Zybooks}, which had interactive components and provided students with immediate feedback. The book is also extremely comprehensive and contains copious amounts of auto-graded exercises, in addition to several practice problems, which I assign weekly to help keep students on track. Finally, the book is exceptionally configurable, both in terms of content and structure.
+  The textbook can be found here: \href{https://learn.zybooks.com/zybook/UWOMath2151ANakadeFall2020}{learn.zybooks.com/zybook/UWOMath2151ANakadeFall2020}
+\item
+  Lectures:
+
+  To minimize the amount of required screen-time for students, I made short videos for each topic instead of a long one for each lecture. Having a textbook that I knew would fill in the gaps left out by the short lectures was crucial for making this choice. I embed these video lectures directly within the textbook to provide a centralized resource to students, much like other online platforms such as Coursera and Kaggle.
+  The video lectures are also available on YouTube at the following link: \href{https://www.youtube.com/playlist?list=PLXAOfwfSuiKm3cL-JftD9ndrjYi7fPcqN}{www.youtube.com/playlist?list=PLXAOfwfSuiKm3cL-JftD9ndrjYi7fPcqN}
+\item
+  Exam:
+
+  I decided to use \href{https://webwork.maa.org/}{WeBWork} to make exam problems.
+  For this, I researched a lot about online testing platforms. I chose WeBWork because it is robust and reliable, and it allows for both internal randomization within a question and randomization between questions. Having an extensive repository of questions enables me to create unique exams for every student.
+\item
+  Rubric for proofs:
+
+  This course also introduced students to proof-writing.
+  This was especially challenging to teach in an online asynchronous setting as it is not possible to provide students with immediate feedback.
+  To remedy this, I decided to grade students on only the \emph{writing} part of proofs.
+  I designed the homework questions based on the textbook questions (for which detailed solutions were provided) and provided students with a rubric on which their writing was going to be graded.
+  The rubric can be found in Appendix \ref{sec:sample-teaching-materials}.
+\item
+  WeBWorK questions repository:
+
+  With my postdoc advisor and two students' help, we designed a repository of several hundred problems for discrete math on WeBWork.
+  This repository is easily portable and can be adapted to any discrete math course.
+  Furthermore, because WeBWorK is open-source this repository can be used by anyone freely.
+\item
+  Discussion forums:
+
+  I realized early on that communication was going to be the key to this course's smooth running. For this reason, I choose Piazza as a discussion forum to answer student questions and encourage them to answer each other's problems. Piazza is very intuitive, easily searchable, and allows for anonymous posts.
+  A demo of the discussion forum can be found here: \url{https://piazza.com/demo_login?nid=kd1rr8nxc6z4b5\&auth=f76e59e}
+\item
+  Centralized access:
+
+  With students getting overwhelmed with the onslaught of online tools, it was necessary to make easily accessible. For this, with a little bit of tweaking, I embedded all the above websites into the school's LMS.
+\end{itemize}
+
+\hypertarget{honors-single-variable-calculus}{%
+\section{Honors Single Variable Calculus}\label{honors-single-variable-calculus}}
+
+At JHU, I got an opportunity to develop and teach Honors Single Variable Calculus for two semesters. This is an
+experimental full semester four-credit course offered at JHU to first-year undergraduates. The course covers
+all of the first-year calculus and introduces students to proof writing.
+
+This is the first course I had to design from scratch. In the years before mine, the course was mostly taught
+in a lecture format. I decided to transition to a fully inquiry-based format. For this, I took the suggested
+textbook for this course and converted it into weekly guided exercises. Because the classes were small, I
+often dynamically modified the course material to suit the class. Designing this course gave a profound
+insight into the process of student learning and helped me combat expert blind spots. The materials for this
+course can be found here: \url{https://apurvanakade.github.io/for-students.html\#honors-single-variable-calculus}
+
+\hypertarget{intersession-courses}{%
+\section{Intersession Courses}\label{intersession-courses}}
+
+I taught two week-long intersession courses titled Hitchhiker's Guide to Algebraic Topology and Symmetries
+\& Polynomials. I taught both of these courses in a flipped classroom format. I assigned students guided
+exercises, which they solved to learn more about the subject. What was both challenging and fun was that
+the students were not math majors, and so I had to remove all the mathematical jargon and could not even
+expect them to know how to write proofs. As such, I had to design my course around concrete examples and
+find easily accessible concepts.
+
+For Hitchhiker's Guide to Algebraic Topology, I asked the students to read and present applications of algebraic
+topology to other fields of science of their choosing. We had several exciting conversations about things like
+applications of knot theory to protein folding and data science. The notes and the student presentations can
+be found here: apurvanakade.github.io/courses/2017 h2g2 alg top/index.html
+
+This 2-week class from the Intersession 2017 at JHU introduces non-math majors to algebraic topology and its applications. There are no prerequisites.
+
+In the Symmetries \& Polynomials course, I taught students group theory using permutations of elements
+and its connection to Galois theory using roots of polynomials. During class, I would divide students into
+
+This 2-week class from Intersession 2018 at JHU non-math majors to group theory and its connections to roots of polynomials, in particular, the unsolvability of the quintic. The class is designed in an IBL-format - you're expected to solve all the problems in each section before moving to the next and in the process learn the subject. The prerequisites are basic proof techniques.
+
+\hypertarget{canadausa-mathcamp}{%
+\section{Canada/USA Mathcamp}\label{canadausa-mathcamp}}
+
+I taught at an intensive, residential, five-week summer camp for mathematically talented high school
+kids for five summers. The academic day at the camp is filled with classes, talks, and office hours with
+more than 100 courses offered each summer, covering material typically only encountered in college or
+grad school. My non-teaching duties included living in the dorms with students as an RA, being an
+academic advisor, and advising students on which courses to take. More information can be found here:
+\url{https://www.mathcamp.org/jobs/grad_students/}
+
+\begin{itemize}
+\item
+  Mentor:
+
+  I designed and taught week-long courses on advanced mathematical topics such as linear
+  algebra, manifolds, Riemann surfaces, representation theory, computer-assisted theorem proving, and
+  mentored several reading and coding projects. A defining feature of Mathcamp is that each student
+  designs their own schedule (with the guidance of an academic advisor). As such, the courses need to
+  be designed to be both interesting and challenging.
+  This year I had the added challenge of doing this online. For this, I decided to create a hybrid
+  coding/math course that introduced students to computer-assisted theorem proving. For my more
+  traditional courses, I taught using Jamboard, which allowed students to scroll through the previous
+  pages. Notes from my Mathcamp classes can be found here: \url{https://apurvanakade.github.io/}
+  teaching.html\#canadausa-mathcamp.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Lean at MC2020
+  \item
+    Crash course on linear algebra
+  \item
+    Galois correspondence of covering spaces
+  \item
+    From high school arithmetic to group cohomology
+  \item
+    Cohomology via sheaves
+  \item
+    How curved is a potato
+  \item
+    Would I ever lie group to you?
+  \item
+    Riemann surfaces
+  \item
+    All things manifoldy
+  \end{itemize}
+\item
+  Academic Coordinator:
+
+  In the summer of 2017, I was one of the two academic coordinators at Mathcamp. The academic coordinators are responsible for designing and running all the educational
+  activities, including inviting and hosting external visitors, preparing a balanced five-week class schedule (more than 100 classes), assigning (110) students to projects, teaching, and being a part of the hiring
+  team. More information can be found here: \url{https://www.mathcamp.org/2018/staff/}
+\end{itemize}
+
+\hypertarget{formalization-in-lean}{%
+\section{Formalization in LEAN}\label{formalization-in-lean}}
+
+\hypertarget{awards}{%
+\chapter{Awards}\label{awards}}
+
+\hypertarget{oer-grants}{%
+\section{OER Grants}\label{oer-grants}}
+
+\url{https://air.northwestern.edu/}
+Grant Proposal Document
+
+\hypertarget{undegraduate-teaching-awards}{%
+\section{Undegraduate Teaching Awards}\label{undegraduate-teaching-awards}}
+
+\begin{itemize}
+\item
+  William Kelso Morrill Award for Excellence in Mathematics, JHU 2019
+
+  Awarded each year to the graduate student who best displays love of teaching, love of mathematics, and concern for students
+\item
+  Finalist for the KSAS Excellence in Teaching Awards 2019
+  The award honors the best graduate TAs in the School of Arts and Sciences for the care and concern they take with their subject and their students.
+\item
+  Prof.~Joel Dean award for Excellence in Teaching in Mathematics, JHU 2016
+
+  Annual award to recognize graduate students and faculty who have exhibited extraordinary performance in teaching undergraduates
+\item
+  AMS Student travel grant 2019
+
+  Travel grant for giving a talk at AMS Sectional Meeting
+\end{itemize}
+
+\hypertarget{mentoring}{%
+\chapter{Mentoring}\label{mentoring}}
+
+\hypertarget{causeway-postbaccalaureate-program}{%
+\section{Causeway Postbaccalaureate Program}\label{causeway-postbaccalaureate-program}}
+
+I am a mentor for the \href{https://sites.northwestern.edu/causeway/}{Causeway Postbaccalaureate Program}
+at Northwestern University for the 2022-23 academic year.
+
+\hypertarget{northwestern-emerging-scholars-program}{%
+\section{Northwestern Emerging Scholar's Program}\label{northwestern-emerging-scholars-program}}
+
+I am a co-director of the \href{https://www.math.northwestern.edu/undergraduate/prizes-competitions-organizations/northwestern-emerging-scholars.html}{Northwestern Emerging Scholar's
+Program}.
+
+\hypertarget{directed-reading-program}{%
+\section{Directed Reading Program}\label{directed-reading-program}}
+
+I've helped \emph{start} and organize the \href{https://www.math.uwo.ca/undergraduate/current_students/directed_reading_program.html}{DRP at
+UWO} and in
+the past have co-organized the \href{https://math.jhu.edu/drp.html}{DRP at JHU}. The Directed Reading
+Program is a program in which undergrads are paired with a graduate student/postdoc whose interests
+align with theirs and they study a topic of their choice for one semester. It is intended to help
+motivated students explore topics in more depth than possible in a classroom setting.
+
+\hypertarget{professional-development-1}{%
+\chapter{Professional Development}\label{professional-development-1}}
+
+\hypertarget{project-next}{%
+\section{Project NExT}\label{project-next}}
+
+Mathematical American Association's \href{https://www.maa.org/programs-and-communities/professional-development/project-next}{Project
+NExT} (New
+Experiences in Teaching) is a professional development program for new or recent Ph.D.s in the
+mathematical sciences. It addresses all aspects of an academic career: improving the teaching and
+learning of mathematics, engaging in research and scholarship, finding exciting and interesting
+service opportunities, and participating in professional activities. For me the greatest value of
+this program is the opportunity it provides to connect to with and learn from other math educators
+from all over the country.
+
+\hypertarget{jhu-teaching-academy-certification}{%
+\section{JHU Teaching Academy Certification}\label{jhu-teaching-academy-certification}}
+
+I have obtained a \href{https://ctei.jhu.edu/teaching-academy/coc}{teaching certification} from the
+\href{https://ctei.jhu.edu/teaching-academy}{Teaching Academy at JHU}. The Teaching Academy's Certificate
+of Completion program is designed to help prepare Ph.D.~students and Post-doctoral Fellows for
+academic careers and to provide assistance in acquiring a foundation for the teaching
+responsibilities associated with their first faculty appointments. This program exposed me to the
+concept of teaching as scholarship and really got me interested in my current career as a math
+educator.
+
+\hypertarget{sigmaa-ibl-ams}{%
+\section{SIGMAA IBL AMS}\label{sigmaa-ibl-ams}}
+
+\url{https://www.maa.org/member-communities/sigmaas}
+
+\hypertarget{workshops}{%
+\section{Workshops}\label{workshops}}
+
+\begin{itemize}
+\tightlist
+\item
+  Northwestern Teaching Alliance
+\item
+  SIMIODE Workshop
+\item
+  CIME Workshop
+\item
+  Mastery Grading
+\item
+  Science of Learning Symposium, JHU
+\end{itemize}
+
+\hypertarget{teaching-evaluations}{%
+\chapter{Teaching Evaluations}\label{teaching-evaluations}}
+
+\hypertarget{student-evaluations}{%
+\section{Student Evaluations}\label{student-evaluations}}
+
+\hypertarget{peer-evaluations}{%
+\section{Peer Evaluations}\label{peer-evaluations}}
+
+In Winter 2020, I participated in the Teaching Mentor Program at UWO.
+The Teaching Mentor Program is a cohort-based hands-on learning experience, wherein participants
+work with a group of 4-5 interdisciplinary graduate students and postdoctoral scholars to observe
+and offer feedback on one another's teaching. Groups will meet multiple times over the course of
+the semester, to act as students in one another's teaching demonstrations. My group had four
+participants whose feedbacks are attached at the end of this document.
+
+
+
+\end{document}
