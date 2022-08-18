@@ -17,9 +17,11 @@ bookdown::gitbook:
   css: [css/style.css]
   config:
     toc:
-      collapse: subsection
+      collapse: section
       scroll_highlight: true
-      before: null
+      before: |
+        <li><a href="https://github.com/apurvnakade/PDFs/blob/main/CV.pdf" target="blank">CV</a></li>
+        <li><a href="https://github.com/apurvnakade/PDFs/tree/main/teaching%20evaluations" target="blank">Teaching Evals</a></li>
       after: null
     download: [pdf]
     toolbar:

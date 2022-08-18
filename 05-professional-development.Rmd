@@ -10,7 +10,7 @@ service opportunities, and participating in professional activities. For me the 
 this program is the opportunity it provides to connect to with and learn from other math educators
 from all over the country. 
 
-## PFFF Teaching Academy
+## JHU Teaching Academy Certification 
 I have obtained a [teaching certification](https://ctei.jhu.edu/teaching-academy/coc) from the
 [Teaching Academy at JHU](https://ctei.jhu.edu/teaching-academy). The Teaching Academy's Certificate
 of Completion program is designed to help prepare Ph.D. students and Post-doctoral Fellows for
@@ -20,8 +20,6 @@ concept of teaching as scholarship and really got me interested in my current ca
 educator.
 <!-- FIXME: Fix the last line. -->
 
-## SIGMAA IBL AMS
-https://www.maa.org/member-communities/sigmaas
 
 ## Workshops
 - Northwestern Teaching Alliance
@@ -29,3 +27,4 @@ https://www.maa.org/member-communities/sigmaas
 - CIME Workshop
 - Mastery Grading
 - Science of Learning Symposium, JHU 
+- [SIGMAA IBL AMS](https://www.maa.org/member-communities/sigmaas)

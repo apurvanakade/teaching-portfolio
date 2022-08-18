@@ -1,10 +1,16 @@
-# Awards 
+# Grants \& Awards 
 
-## OER Grants
+## Grants
+
+### OER Grants 
 https://air.northwestern.edu/
 Grant Proposal Document
 
-## Undegraduate Teaching Awards
+### AMS Graduate Student Travel Grant 2019
+  
+  Travel grant for giving a talk at AMS Sectional Meeting
+
+## Undergraduate Teaching Awards
 
 - William Kelso Morrill Award for Excellence in Mathematics, JHU 2019
   
@@ -16,6 +22,3 @@ Grant Proposal Document
   
   Annual award to recognize graduate students and faculty who have exhibited extraordinary performance in teaching undergraduates
 
-- AMS Student travel grant 2019
-  
-  Travel grant for giving a talk at AMS Sectional Meeting

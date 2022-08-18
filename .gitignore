@@ -3,3 +3,13 @@
 .RData
 .Ruserdata
 docs/*
+
+# latex files
+*.aux
+*.log
+*.out
+*.toc
+*.dvi
+*.synctex.gz
+*.fdb_latexmk
+*.fls
