@@ -1,1 +1,14 @@
 # Sample Course Materials
+
+- Course notes for *Introduction to Optimization* course: https://apurvanakade.github.io/Introduction-to-Optimization/
+
+- Syllabus for *Introduction to Optimization* course: https://canvas.northwestern.edu/courses/164403/assignments/syllabus
+
+- Video lectures for *Discrete Math* course: https://www.youtube.com/playlist?list=PLXAOfwfSuiKm3cL-JftD9ndrjYi7fPcqN
+
+- Textbook for *Discrete Math* course: https://learn.zybooks.com/zybook/UWOMath2151ANakadeFall2020
+  
+- Discussion form for *Discrete Math* course: https://piazza.com/demo_login?nid=kd1rr8nxc6z4b5&auth=f76e59e
+
+- Rubric for grading proofs for *Discrete Math* course: 
+  ![](images/Rubric%20for%20homework%20-%20Math%202151a_page-0001.jpg)

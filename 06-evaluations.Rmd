@@ -1,7 +1,5 @@
 # Teaching Evaluations
 
-**This website is under construction and should be up-to-date by the end of September.**
-
 ## Student Evaluations
 
 The following table lists *median* scores for the questions of "Instructor Effectiveness" and "Course Experience" from end-of-course student evaluations. Detailed student responses can be found here: https://github.com/apurvnakade/PDFs/tree/main/teaching%20evaluations
