@@ -8,7 +8,7 @@
 
 - Textbook for *Discrete Math* course: https://learn.zybooks.com/zybook/UWOMath2151ANakadeFall2020
   
-- Discussion form for *Discrete Math* course: https://piazza.com/demo_login?nid=kd1rr8nxc6z4b5&auth=f76e59e
+- Discussion forum for *Discrete Math* course: https://piazza.com/demo_login?nid=kd1rr8nxc6z4b5&auth=f76e59e
 
 - Rubric for grading proofs for *Discrete Math* course: 
   ![](images/Rubric%20for%20homework%20-%20Math%202151a_page-0001.jpg)
