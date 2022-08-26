@@ -9,25 +9,26 @@ url: https\://github.com/apurvanakade/Teaching-Portfolio
 description: Teaching Portfolio.
 site: bookdown::bookdown_site
 ---
+
 # Introduction {.unnumbered}
 
 I’m a postdoctoral lecturer in the Department of Mathematics at the University of Northwestern
-University. Before coming to Northwestern, I was a postdoctoral fellow at University of Western 
-Ontario from 2019 to 2021. I obtained my PhD from JHU in 2019 with a thesis titled *An application of
-the h-principle to Manifold Calculus*. 
+University. Before coming to Northwestern, I was a postdoctoral fellow at University of Western
+Ontario from 2019 to 2021. I obtained my PhD from JHU in 2019 with a thesis titled _An application of
+the h-principle to Manifold Calculus_.
 
-My academic responsibilities have included  
+My academic responsibilities have included
 
 - coordinating and teaching multi-section courses
-- managing and teaching in-person courses with several hundred students, 
-- adapting large service courses for asynchronous education,  
-- creating advanced electives and short bootcamp courses for small groups of students, 
+- managing and teaching in-person courses with several hundred students,
+- adapting large service courses for asynchronous education,
+- creating advanced electives and short bootcamp courses for small groups of students,
 - creating content for OER texts,
 - managing TAs,
 - hiring mentors for summer camps,
 - supervising reading courses and reading programs,
 - formalizing mathematics in Lean theorem prover.
-- 
+
 I have taught topics spanning calculus, linear algebra, differential equations, linear programming, discrete math, proof checking using computers, manifolds, and algebraic topology.
 
-I'm currently focused on finding ways of incorporating technology into my courses and making the classes more useful to students interested in applied fields. 
+I'm currently focused on finding ways of incorporating technology into my courses and making the classes more useful to students interested in applied fields.
