@@ -17,7 +17,7 @@ Below is a list of courses I've taught in the past.
 | 2021 Fall                                   | Discrete Structures for Engineering (Online, Asynchronous)          |
 | 2019 Winter                                 | Calculus II for Mathematical and Physical Sciences (Coordinated)    |
 | 2019 Fall                                   | Calculus I for Mathematical and Physical Sciences (Coordinated)     |
-| 2029 Fall                                   | Topics in Category Theory                                           |
+| 2019 Fall                                   | Topics in Category Theory                                           |
 |                                             |                                                                     |
 | 2018 Fall^[Johns Hopkins University]        | Honors Single Variable Calculus                                     |
 | 2018 Winter                                 | Symmetries & Polynomials                                            |

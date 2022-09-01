@@ -10,7 +10,7 @@ The following table lists *median* scores for the questions of "Instructor Effec
 | 2022 Winter | MENU Linear Algebra and Multivariable Calculus     | 6/6                     | 5/6                             |
 | 2021 Fall   | MENU Linear Algebra and Multivariable Calculus     | 6/6                     | 6/6                             |
 | 2022 Spring | Introduction to Optimization                       | 6/6                     | 6/6                             |
-| 2021 Fall   | Single Variable Calculus (coordinated)             | 4/6                     | 5/6                             |
+| 2021 Fall   | Single Variable Calculus (coordinated)             | 5/6                     | 4/6                             |
 | 2021 Fall   | Discrete Structures for Engineering                | 7/7                     | 7/7                             |
 | 2019 Fall   | Calculus I for Mathematical and Physical Sciences  | 6/7                     | 6/7                             |
 | 2018 Fall   | Honors Single Variable Calculus                    | 5/5                     | 4/5                             |

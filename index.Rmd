@@ -30,5 +30,4 @@ My academic responsibilities have included
 - formalizing mathematics in Lean theorem prover.
 
 I have taught topics spanning calculus, linear algebra, differential equations, linear programming, discrete math, proof checking using computers, manifolds, and algebraic topology.
-
 I'm currently focused on finding ways of incorporating technology into my courses and making the classes more useful to students interested in applied fields.
