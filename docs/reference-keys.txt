@@ -18,7 +18,12 @@ topics-in-category-theory
 professional-development-1
 project-next
 jhu-teaching-academy-certification
-workshops
+simiode-workshop
+sigmaa-ibl
+critical-issues-in-math-education-workshop
+northwestern-excellence-in-teaching-alliance
+mastery-grading
+science-of-learning-symposium-jhu
 teaching-evaluations
 student-evaluations
 selected-student-feedback
