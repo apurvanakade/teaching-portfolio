@@ -1,8 +1,4 @@
 # Teaching Experience 
-
-Below is a list of courses I've taught in the past. 
-<!-- FIXME: fix the above sentence -->
-
 |                                             |                                                                     |
 | ------------------------------------------- | ------------------------------------------------------------------- |
 | 2023 Spring^[Northwestern University]       | Elementary Differential Equations                                   |
