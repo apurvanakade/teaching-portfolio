@@ -1,4 +1,5 @@
-# Sample Course Materials
+# (APPENDIX) Appendix {-}
+# Sample Teaching Materials
 
 - Course notes for *Introduction to Optimization* course: https://apurvanakade.github.io/Introduction-to-Optimization/
 

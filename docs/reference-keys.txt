@@ -1,6 +1,7 @@
 teaching-statement
 teaching-experience
 introduction-to-optimization
+menu-linear-algebra-and-multivariable-calculus
 algebraic-topology
 discrete-structures-for-engineering
 honors-single-variable-calculus
@@ -28,4 +29,4 @@ teaching-evaluations
 student-evaluations
 selected-student-feedback
 peer-evaluations
-sample-course-materials
+sample-teaching-materials
