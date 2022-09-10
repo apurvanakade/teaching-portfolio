@@ -1,15 +1,20 @@
 # (APPENDIX) Appendix {-}
 # Sample Teaching Materials
 
+All of my teaching materials can be found on my website: https://apurvanakade.github.io/math-notes.html
+
 - Course notes for *Introduction to Optimization* course: https://apurvanakade.github.io/Introduction-to-Optimization/
 
 - Syllabus for *Introduction to Optimization* course: https://canvas.northwestern.edu/courses/164403/assignments/syllabus
 
+- Sample worksheet for *Introduction to Optimization*:
+  ![](images/Math%20368%20Discussion%20Worksheet%20Example.jpg)
+
 - Video lectures for *Discrete Math* course: https://www.youtube.com/playlist?list=PLXAOfwfSuiKm3cL-JftD9ndrjYi7fPcqN
 
-- Textbook for *Discrete Math* course: https://learn.zybooks.com/zybook/UWOMath2151ANakadeFall2020
-  
 - Discussion forum for *Discrete Math* course: https://piazza.com/demo_login?nid=kd1rr8nxc6z4b5&auth=f76e59e
 
 - Rubric for grading proofs for *Discrete Math* course: 
   ![](images/Rubric%20for%20homework%20-%20Math%202151a_page-0001.jpg)
+
+- Course notes for *Honors Single Variable Calculus*: https://github.com/apurvnakade/jhu2017-18-honors-single-variable-calculus/blob/main/2018/output/ClassNotes.pdf
