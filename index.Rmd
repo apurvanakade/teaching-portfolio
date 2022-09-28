@@ -27,8 +27,8 @@ My academic responsibilities have included:
 - hiring mentors for summer camps,
 - supervising reading courses and reading programs,
 - creating open education resources such as Webwork questions, 
-- creating polished course notes,
+- creating polished course notes using RMarkdown,
 - formalizing mathematics in Lean theorem prover.
 
-I have taught topics spanning calculus, linear algebra, differential equations, linear programming, discrete math, proof checking using computers, manifolds, and algebraic topology.
-My current focus is on incorporating technology into my courses and making the classes more helpful to students interested in applied fields.
+I have taught topics spanning calculus, linear algebra, differential equations, linear programming, discrete math, math formalization, manifolds, and algebraic topology.
+My current focus is on incorporating technology into my courses, creating course resources that can be used asynchronously by students thereby providing additional support to instructors outside of classroom, and making the classes more helpful to students interested in applied fields.

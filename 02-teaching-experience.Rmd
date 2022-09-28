@@ -45,7 +45,7 @@ The class had, on average, 12, mostly final-year students.
 
 - **Excel Worksheets:**
   I designed the course to have both a theoretical and a practical component. 
-  The lectures focused on optimization theory, and the discussion sections concentrated on applications. 
+  The lectures focused on optimization theory, and the discussion sections on applications. 
   Students had to model and solve optimization problems during the weekly discussion sections using the [Solver tool in Excel](https://support.microsoft.com/en-us/office/load-the-solver-add-in-in-excel-612926fc-d53b-46b4-872c-e24772f078ca). 
   These were to be submitted at the end of the quarter and formed a significant assessment component.
 
@@ -53,10 +53,15 @@ The class had, on average, 12, mostly final-year students.
 
 _Northwestern University, 2021-22 (instructor), 2022-23 (coordinator)_
 
-This is a year-long accelerated course covering the topics of linear algebra and multivariable calculus. I was an instructor for this course in 2021-22 and am currently (2022-23) the course coordinator. The class has nearly a hundred first-year and second-year students divided into three sections at the start of the year. Because the course is accelerated, I noticed during my first year that this caused much student stress, and we saw some significant attrition. I believe that this is because the course tried to do too much. I have substantially simplified the course structure during my second iteration of teaching this as a coordinator. 
+This is a year-long accelerated course covering the topics of linear algebra and multivariable calculus. I was an instructor for this course in 2021-22 and am currently (2022-23) the course coordinator. The class has nearly a hundred first-year and second-year students divided into three sections at the start of the year. 
+
+I noticed during my first year that students were extremely stressed in this course and we saw significant attrition. I believe that this is because the syllabus puts unrealistic expectations on students and is not updated to the realities of a post-Covid world where students are on average less prepared and less mathematically mature.
+
+Last year, I tried to support students by providing a large number of office hours.
+This year, as a coordinator, I have substantially simplified the course structure to allow students time to catch up. 
 I've shortened the exams and reduced the lecture load by moving some of the material to discussion sections. 
-I plan on using the free [OpenStax Calculus 3 textbook](https://openstax.org/details/books/calculus-volume-3) for the multivariable part. 
-The book is friendly to the reader, has a modern interface, and provides valuable tips about learning and time management.
+I regularly encourage students to work in groups and have provided several resources to help them with mathematical writing, time management, and becoming better learners.
+I continue to offer a lot of office hours 
 
 <!-- ## Foundations of Mathematics
 
