@@ -17,6 +17,6 @@ All of my teaching materials can be found on my website: https://apurvanakade.gi
   
 ![](images/Math%20368%20Discussion%20Worksheet%20Example.jpg)
 
-- Rubric for grading proofs for *Discrete Math* course: 
+### Rubric for grading proofs for *Discrete Math* course: {-}
   
 ![](images/Rubric%20for%20homework%20-%20Math%202151a_page-0001.jpg)

@@ -55,13 +55,16 @@ _Northwestern University, 2021-22 (instructor), 2022-23 (coordinator)_
 
 This is a year-long accelerated course covering the topics of linear algebra and multivariable calculus. I was an instructor for this course in 2021-22 and am currently (2022-23) the course coordinator. The class has nearly a hundred first-year and second-year students divided into three sections at the start of the year. 
 
-I noticed during my first year that students were extremely stressed in this course and we saw significant attrition. I believe that this is because the syllabus puts unrealistic expectations on students and is not updated to the realities of a post-Covid world where students are on average less prepared and less mathematically mature.
+I noticed during my first year that students were extremely stressed in this course and we saw significant attrition. 
+I believe that this is because the syllabus is not updated to the realities of a post-Covid world where students are on average less prepared and less mathematically mature.
+Many students in our class had not taken an in-person exam in over a year and had a skewed perception of their own preparedness.
 
-Last year, I tried to support students by providing a large number of office hours.
+As an instructor, I tried to support my students by providing a large number of office hours.
 This year, as a coordinator, I have substantially simplified the course structure to allow students time to catch up. 
-I've shortened the exams and reduced the lecture load by moving some of the material to discussion sections. 
+I've shortened the exams by diversifying the types of questions. 
+During the discussion sections, students take quizzes with flexible end times; the idea being to give them an opportunity to self-assess without making it feel like a test.
 I regularly encourage students to work in groups and have provided several resources to help them with mathematical writing, time management, and becoming better learners.
-I continue to offer a lot of office hours 
+I continue to offer a lot of office hours, which still see substantial student attendance.
 
 <!-- ## Foundations of Mathematics
 
@@ -75,8 +78,10 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 _University of Western Ontario, Winter 2021_
 
-In Winter 2021, I taught a semester-long course at UWO on Algebraic Topology for graduate students and upper-level undergrads. This was a small class with six graduate and six undergraduate students. The primary textbook for the course was Hatcher. The course covered topics such as the fundamental group, covering spaces, and singular homology. This was a fully online course delivered over Zoom. I used GoodNotes for course delivery. I replaced the final exam with an oral and written report as I was more interested in testing students’ ability to approach a challenging problem than actually getting rigorous proof in a short amount of time. The course relied heavily on solving conceptual homework problem sheets, which I paid meticulous attention to developing.
+In Winter 2021, I taught a semester-long course at UWO on Algebraic Topology for graduate students and upper-level undergrads. This was a small class with six graduate and six undergraduate students. The primary textbook for the course was Hatcher. The course covered topics such as the fundamental group, covering spaces, and singular homology. This was a fully online course delivered over Zoom. I used GoodNotes for course delivery. I replaced the final exam with an oral and a written report as I was more interested in testing students’ ability to approach a challenging problem than coming up with a rigorous proof under time pressure. The course relied heavily on solving conceptual homework problem sheets, which I paid meticulous attention to developing.
 The problem sheets for this course can be found here: [problem sets](https://github.com/apurvnakade/uwo2021-algebraic-topology/tree/main/output).
+
+<!-- TODO: start proofreading from here. -->
 
 ## Discrete Structures for Engineering
 

@@ -31,4 +31,4 @@ My academic responsibilities have included:
 - formalizing mathematics in Lean theorem prover.
 
 I have taught topics spanning calculus, linear algebra, differential equations, linear programming, discrete math, math formalization, manifolds, and algebraic topology.
-My current focus is on incorporating technology into my courses, creating course resources that can be used asynchronously by students thereby providing additional support to instructors outside of classroom, and making the classes more helpful to students interested in applied fields.
+My current focus is on incorporating technology into my courses, creating course resources that can be used asynchronously by students thereby providing additional support to instructors outside of classroom, and making courses more useful to students interested in applied fields.
