@@ -81,8 +81,6 @@ _University of Western Ontario, Winter 2021_
 In Winter 2021, I taught a semester-long course at UWO on Algebraic Topology for graduate students and upper-level undergrads. This was a small class with six graduate and six undergraduate students. The primary textbook for the course was Hatcher. The course covered topics such as the fundamental group, covering spaces, and singular homology. This was a fully online course delivered over Zoom. I used GoodNotes for course delivery. I replaced the final exam with an oral and a written report as I was more interested in testing students’ ability to approach a challenging problem than coming up with a rigorous proof under time pressure. The course relied heavily on solving conceptual homework problem sheets, which I paid meticulous attention to developing.
 The problem sheets for this course can be found here: [problem sets](https://github.com/apurvnakade/uwo2021-algebraic-topology/tree/main/output).
 
-<!-- TODO: start proofreading from here. -->
-
 ## Discrete Structures for Engineering
 
 _University of Western Ontario, Fall 2021_
@@ -109,14 +107,14 @@ This has been the most challenging teaching project so far, as, over the summer,
 - **Rubric for proofs:**
 
   This course introduced students to proof-writing in addition to logic and combinatorics. Teaching this in an online asynchronous setting was incredibly challenging, as providing students with immediate feedback is impossible. To remedy this, I decided to grade students on only the _writing_ part of proofs.
-  I designed the homework questions based on the textbook questions (for which the book provided detailed solutions) and gave students a rubric on which their writing would be graded. The rubric can be found in the [Appendix][Sample Teaching Materials].
+  I designed the homework questions based on the textbook questions (for which the book provided detailed solutions) and gave students a rubric on which their writing would be graded. The rubric can be found in the [Appendix](#rubric-for-grading-proofs-for-discrete-math-course).
 
 - **Discussion forums:**
 
   I realized early on that communication would be the key to this course's smooth running.
   For this reason, I choose Piazza as a discussion forum to answer student questions and encourage them to answer each other’s problems.
   Piazza is very intuitive, easily searchable, and allows for anonymous posts.
-  A demo of the discussion forum can be found here: https://piazza.com/demo_login?nid=kd1rr8nxc6z4b5&auth=f76e59e
+  Anonymized version of my class' discussion forum can be found here: https://piazza.com/demo_login?nid=kd1rr8nxc6z4b5&auth=f76e59e
 
 ## Honors Single Variable Calculus
 
@@ -124,19 +122,19 @@ _Johns Hopkins University, Fall 2017, 2018_
 
 At JHU, I got an opportunity to develop and teach Honors Single Variable Calculus for two semesters. This is an experimental full-semester four-credit course offered at JHU to first-year undergraduates. The course covers all first-year calculus and introduces students to proof writing.
 
-This is the first course I had to design from scratch.
+This was the first course I had to design from scratch.
 In the previous years, the course was mostly taught in a lecture format.
 I decided to transition to a fully inquiry-based format.
 For this, I took the suggested textbook for this course and converted it into weekly guided exercises.
 Because the classes were small, I often dynamically modified the course material to suit the class.
-Designing this course gave me insights into the process of student learning and helped me combat expert blind spots.
+Designing this course gave me insights into the process of student learning and I learned a lot about how to keep students engaged.
 The materials for this course can be found here: https://apurvanakade.github.io/for-students.html#honors-single-variable-calculus
 
 ## Intersession Courses
 
 _Johns Hopkins University, Winter 2017, 2018_
 
-I taught two week-long intersession courses, Hitchhiker’s Guide to Algebraic Topology and Symmetries & Polynomials. I taught both of these courses in a flipped classroom format. I assigned students guided exercises, which they solved to learn more about the subject. What was both challenging and fun was that the students were not math majors; I had to remove all the mathematical jargon and could not even expect them to know how to write proofs. I had to design my course around concrete examples and find easily accessible concepts.
+I taught two week-long intersession courses, *Hitchhiker’s Guide to Algebraic Topology* and *Symmetries & Polynomials*. I taught both of these courses in a flipped classroom format. I assigned students guided exercises, which they solved to learn more about the subject. What was both challenging and fun was that the students were not math majors; I had to remove all the mathematical jargon and could not even expect them to know how to write proofs. I had to design my course around concrete examples and find easily accessible concepts.
 
 For Hitchhiker’s Guide to Algebraic Topology, I asked the students to read and present applications of algebraic topology to other fields of science of their choosing. We had several exciting conversations about the applications of knot theory to protein folding and data science. The notes and the student presentations can be found here: https://apurvanakade.github.io/courses/2017_h2g2_alg_top/index.html
 
@@ -151,8 +149,9 @@ https://www.mathcamp.org/jobs/grad_students/
 
 - **Mentor:**
 
-  I designed and taught week-long courses on advanced mathematical topics such as linear algebra, manifolds, Riemann surfaces, representation theory, and computer-assisted theorem proving. I also mentored several reading and coding projects. A defining feature of Mathcamp is that each student designs their schedule (with the guidance of an academic advisor). As such, the courses need to be designed to be both interesting and challenging. This year I had the added challenge of doing this online. For this, I created a hybrid coding/math course introducing students to computer-assisted theorem proving. For my more traditional courses, I taught using Jamboard, which allowed students to scroll through the previous pages. Notes from my Mathcamp classes can be found here: https://apurvanakade.github.io/
-  teaching.html#canadausa-mathcamp.
+  I designed and taught week-long courses on advanced mathematical topics such as linear algebra, manifolds, Riemann surfaces, representation theory, and computer-assisted theorem proving. I also mentored several reading and coding projects. A defining feature of Mathcamp is that each student designs their schedule (with the guidance of an academic advisor). As such, the courses need to be designed to be interesting and challenging. In 2020, I had the added challenge of doing this online. For this, I created a hybrid coding/math course introducing students to computer-assisted theorem proving. 
+  Notes from my Mathcamp classes can be found here: https://apurvanakade.github.io/for-students.html#canadausa.
+  Following is a list of some to the topics I taught:
 
   - Lean at MC2020
   - Crash course on linear algebra

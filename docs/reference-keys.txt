@@ -13,7 +13,6 @@ undergraduate-teaching-awards
 ams-graduate-student-travel-grant-2019
 mentoring
 causeway-postbaccalaureate-program
-northwestern-emerging-scholars-program
 directed-reading-program
 topics-in-category-theory
 professional-development-1
