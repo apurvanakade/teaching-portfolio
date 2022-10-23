@@ -37,8 +37,6 @@ From 2021-22, I participated in Northwestern's teaching alliance program.
 The program provided reading resources and guides through a Canvas course hosted by the Searle teaching center at Northwestern.
 We met in small cohorts monthly to engage in conversations led by a faculty peer around teaching and learning. 
 
-<!-- TODO: start proofreading from here. -->
-
 ## Mastery Grading
 In Summer 2019, I participated in a workshop on mastery grading. 
 During the workshop, we learned about standards-based grading, and we heard about how it has been implemented across a variety of courses. 
@@ -48,4 +46,4 @@ I am considering implementing this grading system in the Intro to Proofs course 
 I attended a biennial Science of Learning symposium at JHU from 2014-18. 
 The event brought together experts in cognitive science, neuroscience, education, and other fields to explore different perspectives on the cognitive and neural bases for learning and motivation.
 I found the insights about the physiological basis of learning to be very helpful.
- I have since read more about these topics and even completed the "Learning how to learn" course on Coursera.
+I have since read more about these topics and completed the "Learning how to learn" course on Coursera.
