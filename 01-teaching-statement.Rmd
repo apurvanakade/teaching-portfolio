@@ -29,14 +29,11 @@ I strongly believe in making education more accessible by creating open educatio
   I memorize all of my students’ names so I can connect with them personally.
   I start my classes with warm-up exercises and roam around the class to check on their work. 
   I hold many office hours in a collaborative space that encourages group work. My office hours always have high attendance and tend to turn into group study sessions. 
-  I greatly value one-to-one interaction. 
-  These interactions provide me an opportunity to observe how the students approach a problem solving allowing to provide them with pointed feedback.
-  It also give students a chance to see me struggle and make mistakes. 
-<!-- FIXME: The ending of the above paragraph is quite bad. Need to rewrite. -->
+  They provide me an opportunity to observe how students approach problem solving enabling me to provide them with pointed feedback.
 
 
 #### Professional Development {-}
-  I try to keep myself updated on the advances in pedagogical techniques and find it valuable to hear other educators’ experiences. I am a member of the Project NExT’20^[A professional development program sponsored by the MAA for math educators at the university level, https://www.maa.org/programs-and-communities/professional-development/project-next] cohort. I have completed a certification course at the (Teaching Academy at JHU)[https://ctei.jhu.edu/teaching-academy] where I learned about several pedagogical concepts such as inquiry-based learning, backward course design, and learning objectives, which I regularly incorporate into my teaching. I have regularly attended workshops and seminars organized at the Center for Teaching and Learning at UWO and NU and, most recently, [MAA Open Math Workshops](https://www.maa.org/programs-and-communities/professional-development/open-math), SIGMAA IBL workshops^[Special Interest Group of the Mathematical Association of America, http://sigmaa.maa.org/ibl/], and [Online Seminar On Undergraduate Mathematics Education](https://olsume.org/).
+  I try to keep myself updated on the advances in pedagogical techniques and find it valuable to hear other educators’ experiences. I am a member of the Project NExT’20^[A professional development program sponsored by the MAA for math educators at the university level, https://www.maa.org/programs-and-communities/professional-development/project-next] cohort. I have completed a certification course at the [Teaching Academy at JHU](https://ctei.jhu.edu/teaching-academy) where I learned about several pedagogical concepts such as inquiry-based learning, backward course design, and learning objectives, which I regularly incorporate into my teaching. I have regularly attended workshops and seminars organized at the Center for Teaching and Learning at UWO and NU and, most recently, [MAA Open Math Workshops](https://www.maa.org/programs-and-communities/professional-development/open-math), SIGMAA IBL workshops^[Special Interest Group of the Mathematical Association of America, http://sigmaa.maa.org/ibl/], and [Online Seminar On Undergraduate Mathematics Education](https://olsume.org/).
   In addition to providing me with new information and skills, these workshops also allow me to take on the role of a student and stay an active learner.
 
 #### Mentorship {-}
