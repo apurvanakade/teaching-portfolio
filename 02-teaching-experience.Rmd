@@ -11,8 +11,8 @@
 | 2021 Fall                                   | Single Variable Calculus (Coordinated)                              |
 |                                             |                                                                     |
 | 2021 Winter^[University of Western Ontario] | Algebraic Topology                                                  |
-| 2021 Fall                                   | Discrete Structures for Engineering (Online, Asynchronous)          |
-| 2019 Winter                                 | Calculus II for Mathematical and Physical Sciences (Coordinated)    |
+| 2020 Fall                                   | Discrete Structures for Engineering (Online, Asynchronous)          |
+| 2020 Winter                                 | Calculus II for Mathematical and Physical Sciences (Coordinated)    |
 | 2019 Fall                                   | Calculus I for Mathematical and Physical Sciences (Coordinated)     |
 | 2019 Fall                                   | Topics in Category Theory                                           |
 |                                             |                                                                     |
@@ -27,7 +27,7 @@
 | 2017-20                                     | Various Canada/USA Mathcamp courses                                 |
 | 2018                                        | Canada/USA Mathcamp Academic Coordinator                            |
 
-Below I provide details about some of my courses.
+Below I provide details about several of my courses.
 
 ## Introduction to Optimization
 
@@ -48,6 +48,7 @@ The class had, on average, 12, mostly final-year students.
   The lectures focused on optimization theory, and the discussion sections on applications. 
   Students had to model and solve optimization problems during the weekly discussion sections using the [Solver tool in Excel](https://support.microsoft.com/en-us/office/load-the-solver-add-in-in-excel-612926fc-d53b-46b4-872c-e24772f078ca). 
   These were to be submitted at the end of the quarter and formed a significant assessment component.
+  A sample worksheet can be found in the [Appendix](#sample-worksheet).
 
 ## MENU Linear Algebra and Multivariable Calculus
 
@@ -83,7 +84,7 @@ The problem sheets for this course can be found here: [problem sets](https://git
 
 ## Discrete Structures for Engineering
 
-_University of Western Ontario, Fall 2021_
+_University of Western Ontario, Fall 2020_
 
 This was a semester-long four-credit course offered to second-year software engineering students. Students were introduced to fundamental concepts in discrete math, such as logic, combinatorics, modular arithmetic, and proof-writing. I was the only instructor for this course. My class had nearly 200 students. I had to adapt the course to fit an online mode of delivery.
 
@@ -107,7 +108,7 @@ This has been the most challenging teaching project so far, as, over the summer,
 - **Rubric for proofs:**
 
   This course introduced students to proof-writing in addition to logic and combinatorics. Teaching this in an online asynchronous setting was incredibly challenging, as providing students with immediate feedback is impossible. To remedy this, I decided to grade students on only the _writing_ part of proofs.
-  I designed the homework questions based on the textbook questions (for which the book provided detailed solutions) and gave students a rubric on which their writing would be graded. The rubric can be found in the [Appendix](#rubric-for-grading-proofs-for-discrete-math-course).
+  I designed the homework questions based on the textbook questions (for which the book provided detailed solutions) and gave students a rubric on which their writing would be graded. The rubric can be found in the [Appendix](#rubric-for-grading-proofs).
 
 - **Discussion forums:**
 
