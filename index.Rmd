@@ -19,7 +19,7 @@ the h-principle to Manifold Calculus_.
 
 My academic responsibilities have included:
 
-- coordinating and teaching multi-section courses
+- coordinating and teaching multi-section courses,
 - teaching in-person and online courses with several hundred students,
 - adapting large service courses for asynchronous education,
 - creating advanced electives and short boot camp courses for small groups of students,
@@ -27,7 +27,7 @@ My academic responsibilities have included:
 - hiring mentors for summer camps,
 - supervising reading courses and reading programs,
 - creating open education resources such as video lectures and Webwork questions, 
-- creating polished course notes using RMarkdown,
+- creating course content using RMarkdown and PreTeXt,
 - formalizing mathematics in Lean theorem prover.
 
 I have taught topics spanning calculus, linear algebra, differential equations, linear programming, discrete math, math formalization, manifolds, and algebraic topology.

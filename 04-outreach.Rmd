@@ -12,8 +12,8 @@ The Causeway Postbaccalaureate Program is a yearlong experience in mathematics t
 
 The Directed Reading Program pairs undergraduates with a graduate student/postdoc whose interests align with theirs and study a topic of their choice for one semester. It is intended to help motivated students explore topics more in-depth than possible in a classroom setting. I’ve helped start and organize the [DRP at UWO](https://www.math.uwo.ca/undergraduate/current_students/directed_reading_program.html). In the past, I have co-organized the [DRP at JHU](https://math.jhu.edu/drp.html).
 These programs have been greatly successful at both the universities and have seen a steady increase in participants over the years.
-
+<!-- 
 ## Topics in Category Theory
 
 In Fall 2019, I supervised a topics course on topics in category theory for graduate students at UWO.
-We covered topics from Weibel's Homological Algebra and Emily Riehl's Category Theory in Context textbooks.
+We covered topics from Weibel's Homological Algebra and Emily Riehl's Category Theory in Context textbooks. -->
