@@ -18,7 +18,7 @@ The following table lists *median* scores for the questions of **Instructor Effe
 | 2015 Summer | Differential Equations with Applications          | 4/5        | 4/5    |
 | 2014 Summer | Online Linear Algebra                             | 3/5        | 3/5    |
 
-### Selected Student Feedback
+### Selected Student Feedback {-}
 
 - This[Optimization] was the best math class I've taken so far at Northwestern. For the first time, I feel like I will carry the material I learned in class
 for years and years, as it's so applicative to real world problems. 
@@ -53,7 +53,7 @@ also would always stay after class for questions if anyone had any.
   The Teaching Mentor Program is a cohort-based hands-on learning experience, wherein participants
   work with a group of 4-5 interdisciplinary graduate students and postdoctoral scholars to observe
   and offer feedback on one another's teaching. Groups will meet multiple times over the course of
-  the semester, to act as students in one another’s teaching demonstrations. My group had four
+  the semester, to act as students in one another's teaching demonstrations. My group had four
   participants whose feedbacks are attached here.
 
   ![](images/2020 UWO CTL Teaching Mentor Program_page-0001.jpg)

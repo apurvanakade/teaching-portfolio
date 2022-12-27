@@ -7,7 +7,7 @@ The grant is for adding interactive WeBWorK, and SageMath exercises to Aaron's o
 We hope to make the book self-contained and a complete replacement for a standard linear algebra text.
 I have prior experience with WeBWorK which has helped us get started immediately.
 
-## Undergraduate teaching awards
+## Undergraduate Teaching Awards
 
 - **William Kelso Morrill Award for Excellence in Mathematics**, JHU 2019
 

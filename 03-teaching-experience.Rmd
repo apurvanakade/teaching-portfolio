@@ -1,0 +1,144 @@
+# Course Development
+
+## Discrete Structures for Engineering
+
+_University of Western Ontario, Fall 2020_
+
+This was a semester-long four-credit course offered to second-year software engineering students. Students were introduced to fundamental concepts in discrete math, such as logic, combinatorics, modular arithmetic, and proof-writing. I was the only instructor for this course. My class had nearly 200 students. I had to adapt the course to fit an online mode of delivery.
+
+This has been the most challenging teaching project so far, as, over the summer, I had to adapt a regular course to an online asynchronous setting. While preparing for the course, my priority was to reduce student anxiety, simplify the course delivery as much as possible, and minimize the screen time for students.
+
+- **Textbook:**
+
+  I abandoned the traditional textbooks and chose an online one called [Zybooks](https://learn.zybooks.com/zybook/UWOMath2151ANakadeFall2020), which had interactive components and provided students with immediate feedback. The book is also highly comprehensive and contains copious amounts of auto-graded exercises and several practice problems, which I assigned weekly to help keep students on track. Finally, the book is exceptionally configurable in terms of content and structure. The textbook can be found here:
+ \href{https://learn.zybooks.com/zybook/UWOMath2151ANakadeFall2020}{learn.zybooks.com/zybook/UWOMath2151ANakadeFall2020}
+
+- **Video Lectures:**
+
+  To minimize the required screen time for students, I made short videos for each topic instead of long ones for each lecture. Having a textbook that I knew would fill in the gaps left out by the short lectures was crucial for making this choice. I embedded these video lectures directly within the textbook to provide a centralized resource to students, much like other online platforms such as Coursera and Kaggle. 
+  The video lectures are also available on YouTube at the following link: https://www.youtube.com/playlist?list=PLXAOfwfSuiKm3cL-JftD9ndrjYi7fPcqN
+
+- **Exam:**
+
+  I decided to use [WeBWorK](https://webwork.maa.org) to make exam problems.
+  I chose WeBWork because it is robust and reliable and allows for internal randomizations within a question and randomization between questions. With my postdoc advisor and two students' help, we designed a repository of several hundred problems for discrete math on WeBWork. This repository is easily portable and adaptable to any discrete math course. An extensive repository of questions enabled me to create unique exams for every student.
+
+- **Rubric for proofs:**
+
+  This course introduced students to proof-writing in addition to logic and combinatorics. Teaching this in an online asynchronous setting was incredibly challenging, as providing students with immediate feedback is impossible. To remedy this, I decided to grade students on only the _writing_ part of proofs.
+  I designed the homework questions based on the textbook questions (for which the book provided detailed solutions) and gave students a rubric on which their writing would be graded. The rubric can be found in the [Appendix](#rubric-for-grading-proofs).
+
+- **Discussion forums:**
+
+  I realized early on that communication would be the key to this course's smooth running.
+  For this reason, I choose Piazza as a discussion forum to answer student questions and encourage them to answer each other's problems.
+  Piazza is very intuitive, easily searchable, and allows for anonymous posts.
+  Anonymized version of my class' discussion forum can be found here: https://piazza.com/demo_login?nid=kd1rr8nxc6z4b5&auth=f76e59e
+
+
+## Introduction to Optimization
+
+_Northwestern University, Fall and Winter 2021_
+
+I taught this quarter-long course for two quarters in the Winter and Spring of 2021. 
+The course was aimed at upper-level undergraduates majoring in math and economics.
+It covered the topics of linear programming, the simplex method, duality theory, KKT conditions, and applications. 
+The class had, on average, 12, mostly final-year students.
+
+- **Class Notes:**
+  Most textbooks I encountered were either too theoretical or too applied. 
+  I failed to find one that was a good fit for this course. 
+  As such, I wrote detailed notes for this course in RMarkdown which can be found here: [apurvanakade.github.io/Introduction-to-Optimization](https://apurvanakade.github.io/Introduction-to-Optimization/).
+
+- **Excel Worksheets:**
+  I designed the course to have both a theoretical and a practical component. 
+  The lectures focused on optimization theory, and the discussion sections on applications. 
+  Students had to model and solve optimization problems during the weekly discussion sections using the [Solver tool in Excel](https://support.microsoft.com/en-us/office/load-the-solver-add-in-in-excel-612926fc-d53b-46b4-872c-e24772f078ca). 
+  These were to be submitted at the end of the quarter and formed a significant assessment component.
+  A sample worksheet can be found in the [Appendix](#sample-worksheet).
+
+## MENU Linear Algebra and Multivariable Calculus
+
+_Northwestern University, 2021-22 (instructor), 2022-23 (coordinator)_
+
+This is a year-long accelerated course covering the topics of linear algebra and multivariable calculus. I was an instructor for this course in 2021-22 and am currently (2022-23) the course coordinator. The class has nearly a hundred first-year and second-year students divided into three sections at the start of the year. 
+
+I noticed during my first year that students were extremely stressed in this course and we saw significant attrition. 
+I believe that this is because the syllabus is not updated to the realities of a post-Covid world where students are on average less prepared and less mathematically mature.
+Many students in our class had not taken an in-person exam in over a year and had a skewed perception of their own preparedness.
+
+As an instructor, I tried to support my students by providing a large number of office hours.
+This year, as a coordinator, I have substantially simplified the course structure to allow students time to catch up. 
+I've shortened the exams by diversifying the types of questions. 
+During the discussion sections, students take quizzes with flexible end times; the idea being to give them an opportunity to self-assess without making it feel like a test.
+I regularly encourage students to work in groups and have provided several resources to help them with mathematical writing, time management, and becoming better learners.
+I continue to offer a lot of office hours, which still see substantial student attendance.
+
+<!-- ## Foundations of Mathematics
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
+## Elementary Differential Equations
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. -->
+
+## Algebraic Topology
+
+_University of Western Ontario, Winter 2021_
+
+In Winter 2021, I taught a semester-long course at UWO on Algebraic Topology for graduate students and upper-level undergrads. This was a small class with six graduate and six undergraduate students. The primary textbook for the course was Hatcher. The course covered topics such as the fundamental group, covering spaces, and singular homology. This was a fully online course delivered over Zoom. I used GoodNotes for course delivery. I replaced the final exam with an oral and a written report as I was more interested in testing students' ability to approach a challenging problem than coming up with a rigorous proof under time pressure. The course relied heavily on solving conceptual homework problem sheets, which I paid meticulous attention to developing.
+The problem sheets for this course can be found here: [problem sets](https://github.com/apurvnakade/uwo2021-algebraic-topology/tree/main/output).
+
+## Honors Single Variable Calculus
+
+_Johns Hopkins University, Fall 2017, 2018_
+
+At JHU, I got an opportunity to develop and teach Honors Single Variable Calculus for two semesters. This is an experimental full-semester four-credit course offered at JHU to first-year undergraduates. The course covers all first-year calculus and introduces students to proof writing.
+
+This was the first course I had to design from scratch.
+In the previous years, the course was mostly taught in a lecture format.
+I decided to transition to a fully inquiry-based format.
+For this, I took the suggested textbook for this course and converted it into weekly guided exercises.
+Because the classes were small, I often dynamically modified the course material to suit the class.
+Designing this course gave me insights into the process of student learning and I learned a lot about how to keep students engaged.
+The materials for this course can be found here: https://apurvanakade.github.io/for-students.html#honors-single-variable-calculus
+
+## Intersession Courses
+
+_Johns Hopkins University, Winter 2017, 2018_
+
+I taught two week-long intersession courses, *Hitchhiker's Guide to Algebraic Topology* and *Symmetries & Polynomials*. I taught both of these courses in a flipped classroom format. I assigned students guided exercises, which they solved to learn more about the subject. What was both challenging and fun was that the students were not math majors; I had to remove all the mathematical jargon and could not even expect them to know how to write proofs. I had to design my course around concrete examples and find easily accessible concepts.
+
+For Hitchhiker's Guide to Algebraic Topology, I asked the students to read and present applications of algebraic topology to other fields of science of their choosing. We had several exciting conversations about the applications of knot theory to protein folding and data science. The notes and the student presentations can be found here: https://apurvanakade.github.io/courses/2017_h2g2_alg_top/index.html
+
+## Canada/USA Mathcamp
+
+I taught at an intensive, residential, five-week summer camp for mathematically talented high school
+kids for five summers. The academic day at the camp is filled with classes, talks, and office hours with
+more than 100 courses offered each summer, covering material typically only encountered in college or
+grad school. My non-teaching duties included living in the dorms with students as an RA, being an
+academic advisor, and advising students on which courses to take. More information can be found here:
+https://www.mathcamp.org/jobs/grad_students/
+
+- **Mentor:**
+
+  I designed and taught week-long courses on advanced mathematical topics such as linear algebra, manifolds, Riemann surfaces, representation theory, and computer-assisted theorem proving. I also mentored several reading and coding projects. A defining feature of Mathcamp is that each student designs their schedule (with the guidance of an academic advisor). As such, the courses need to be designed to be interesting and challenging. In 2020, I had the added challenge of doing this online. For this, I created a hybrid coding/math course introducing students to computer-assisted theorem proving. 
+  Notes from my Mathcamp classes can be found here: https://apurvanakade.github.io/for-students.html#canadausa.
+  Following is a list of some to the topics I taught:
+
+  - Lean at MC2020
+  - Crash course on linear algebra
+  - Galois correspondence of covering spaces
+  - From high school arithmetic to group cohomology
+  - Cohomology via sheaves
+  - How curved is a potato
+  - Would I ever lie group to you?
+  - Riemann surfaces
+  - All things manifoldy
+  
+
+- **Academic Coordinator:**
+
+  In the summer of 2017, I was one of the two academic coordinators at Mathcamp.
+  The academic coordinators are responsible for designing and running all the educational activities, including inviting and hosting external visitors, preparing a balanced five-week class schedule (more than 100 classes), assigning (110) students to projects, teaching, and being a part of the hiring team.
+  More information can be found here: https://www.mathcamp.org/2018/staff/

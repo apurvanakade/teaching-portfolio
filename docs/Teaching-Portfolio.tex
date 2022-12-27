@@ -4,10 +4,10 @@
 %
 \documentclass[
 ]{report}
-\usepackage{amsmath,amssymb}
 \usepackage{lmodern}
-\usepackage{iftex}
-\ifPDFTeX
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
   \usepackage[T1]{fontenc}
   \usepackage[utf8]{inputenc}
   \usepackage{textcomp} % provide euro and other symbols
@@ -41,8 +41,7 @@
   hidelinks,
   pdfcreator={LaTeX via pandoc}}
 \urlstyle{same} % disable monospaced font for URLs
-\usepackage{longtable,booktabs,array}
-\usepackage{calc} % for calculating minipage widths
+\usepackage{longtable,booktabs}
 % Correct order of tables after \paragraph or \subparagraph
 \usepackage{etoolbox}
 \makeatletter
@@ -78,15 +77,12 @@
     pdftitle={Apurva Nakade - Teaching Portfolio},
     pdfpagemode=FullScreen,
     }
-\ifLuaTeX
-  \usepackage{selnolig}  % disable illegal ligatures
-\fi
 \usepackage[]{natbib}
 \bibliographystyle{plainnat}
 
 \title{Teaching Portfolio}
 \author{Apurva Nakade}
-\date{2022-10-31}
+\date{2022-12-27}
 
 \begin{document}
 \maketitle
@@ -215,42 +211,178 @@ This is particularly challenging as most instructors are primarily researchers a
 The solution is to develop structured resources (like online asynchronous assessments, modeling first textbooks, programming assignments in SageMath, and IBL scripts) to enable instructors to incorporate active learning in their classrooms at no extra cost.
 Finally, I am currently contributing to Open Education Resources. I want to expand these projects in the future with a focus on online assessments, as this is the main bottleneck in successfully adapting courses to an online setting.
 
-\hypertarget{teaching-experience}{%
-\chapter{Teaching Experience}\label{teaching-experience}}
+\hypertarget{list-of-courses}{%
+\chapter{List of Courses}\label{list-of-courses}}
 
-\begin{longtable}[]{@{}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.3909}}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.6091}}@{}}
+\begin{longtable}[]{@{}ll@{}}
 \toprule
 \endhead
-2023 Spring\footnote{Northwestern University} & Elementary Differential Equations \\
-2023 Winter & Foundations of Mathematics \\
-2022-23 & MENU Linear Algebra and Multivariable Calculus (Course Coordinator) \\
-2021-22 & MENU Linear Algebra and Multivariable Calculus (Coordinated) \\
-2022 Spring & Introduction to Optimization \\
-2022 Winter & Introduction to Optimization \\
-2021 Fall & Single Variable Calculus (Coordinated) \\
-& \\
-2021 Winter\footnote{University of Western Ontario} & Algebraic Topology \\
-2020 Fall & Discrete Structures for Engineering (Online, Asynchronous) \\
-2020 Winter & Calculus II for Mathematical and Physical Sciences (Coordinated) \\
-2019 Fall & Calculus I for Mathematical and Physical Sciences (Coordinated) \\
-2019 Fall & Topics in Category Theory \\
-& \\
-2018 Fall\footnote{Johns Hopkins University} & Honors Single Variable Calculus \\
-2018 Winter & Symmetries \& Polynomials \\
-2017 Fall & Honors Single Variable Calculus \\
-2017 Winter & Hitchhiker's Guide to Algebraic Topology \\
-2017 Summer & Differential Equations with Applications \\
-2015 Summer & Differential Equations with Applications \\
-2014 Summer & Online Linear Algebra \\
-& \\
-2017-20 & Various Canada/USA Mathcamp courses \\
-2018 & Canada/USA Mathcamp Academic Coordinator \\
+\begin{minipage}[t]{0.37\columnwidth}\raggedright
+2023 Spring\footnote{Northwestern University}\strut
+\end{minipage} & \begin{minipage}[t]{0.57\columnwidth}\raggedright
+Elementary Differential Equations\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.37\columnwidth}\raggedright
+2023 Winter\strut
+\end{minipage} & \begin{minipage}[t]{0.57\columnwidth}\raggedright
+Foundations of Mathematics\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.37\columnwidth}\raggedright
+2022-23\strut
+\end{minipage} & \begin{minipage}[t]{0.57\columnwidth}\raggedright
+MENU Linear Algebra and Multivariable Calculus (Course Coordinator)\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.37\columnwidth}\raggedright
+2021-22\strut
+\end{minipage} & \begin{minipage}[t]{0.57\columnwidth}\raggedright
+MENU Linear Algebra and Multivariable Calculus (Coordinated)\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.37\columnwidth}\raggedright
+2022 Spring\strut
+\end{minipage} & \begin{minipage}[t]{0.57\columnwidth}\raggedright
+Introduction to Optimization\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.37\columnwidth}\raggedright
+2022 Winter\strut
+\end{minipage} & \begin{minipage}[t]{0.57\columnwidth}\raggedright
+Introduction to Optimization\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.37\columnwidth}\raggedright
+2021 Fall\strut
+\end{minipage} & \begin{minipage}[t]{0.57\columnwidth}\raggedright
+Single Variable Calculus (Coordinated)\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.37\columnwidth}\raggedright
+\strut
+\end{minipage} & \begin{minipage}[t]{0.57\columnwidth}\raggedright
+\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.37\columnwidth}\raggedright
+2021 Winter\footnote{University of Western Ontario}\strut
+\end{minipage} & \begin{minipage}[t]{0.57\columnwidth}\raggedright
+Algebraic Topology\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.37\columnwidth}\raggedright
+2020 Fall\strut
+\end{minipage} & \begin{minipage}[t]{0.57\columnwidth}\raggedright
+Discrete Structures for Engineering (Online, Asynchronous)\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.37\columnwidth}\raggedright
+2020 Winter\strut
+\end{minipage} & \begin{minipage}[t]{0.57\columnwidth}\raggedright
+Calculus II for Mathematical and Physical Sciences (Coordinated)\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.37\columnwidth}\raggedright
+2019 Fall\strut
+\end{minipage} & \begin{minipage}[t]{0.57\columnwidth}\raggedright
+Calculus I for Mathematical and Physical Sciences (Coordinated)\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.37\columnwidth}\raggedright
+2019 Fall\strut
+\end{minipage} & \begin{minipage}[t]{0.57\columnwidth}\raggedright
+Topics in Category Theory\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.37\columnwidth}\raggedright
+\strut
+\end{minipage} & \begin{minipage}[t]{0.57\columnwidth}\raggedright
+\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.37\columnwidth}\raggedright
+2018 Fall\footnote{Johns Hopkins University}\strut
+\end{minipage} & \begin{minipage}[t]{0.57\columnwidth}\raggedright
+Honors Single Variable Calculus\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.37\columnwidth}\raggedright
+2018 Winter\strut
+\end{minipage} & \begin{minipage}[t]{0.57\columnwidth}\raggedright
+Symmetries \& Polynomials\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.37\columnwidth}\raggedright
+2017 Fall\strut
+\end{minipage} & \begin{minipage}[t]{0.57\columnwidth}\raggedright
+Honors Single Variable Calculus\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.37\columnwidth}\raggedright
+2017 Winter\strut
+\end{minipage} & \begin{minipage}[t]{0.57\columnwidth}\raggedright
+Hitchhiker's Guide to Algebraic Topology\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.37\columnwidth}\raggedright
+2017 Summer\strut
+\end{minipage} & \begin{minipage}[t]{0.57\columnwidth}\raggedright
+Differential Equations with Applications\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.37\columnwidth}\raggedright
+2015 Summer\strut
+\end{minipage} & \begin{minipage}[t]{0.57\columnwidth}\raggedright
+Differential Equations with Applications\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.37\columnwidth}\raggedright
+2014 Summer\strut
+\end{minipage} & \begin{minipage}[t]{0.57\columnwidth}\raggedright
+Online Linear Algebra\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.37\columnwidth}\raggedright
+\strut
+\end{minipage} & \begin{minipage}[t]{0.57\columnwidth}\raggedright
+\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.37\columnwidth}\raggedright
+2017-20\strut
+\end{minipage} & \begin{minipage}[t]{0.57\columnwidth}\raggedright
+Various Canada/USA Mathcamp courses\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.37\columnwidth}\raggedright
+2018\strut
+\end{minipage} & \begin{minipage}[t]{0.57\columnwidth}\raggedright
+Canada/USA Mathcamp Academic Coordinator\strut
+\end{minipage}\tabularnewline
 \bottomrule
 \end{longtable}
 
 Below I provide details about several of my courses.
+
+\hypertarget{course-development}{%
+\chapter{Course Development}\label{course-development}}
+
+\hypertarget{discrete-structures-for-engineering}{%
+\section{Discrete Structures for Engineering}\label{discrete-structures-for-engineering}}
+
+\emph{University of Western Ontario, Fall 2020}
+
+This was a semester-long four-credit course offered to second-year software engineering students. Students were introduced to fundamental concepts in discrete math, such as logic, combinatorics, modular arithmetic, and proof-writing. I was the only instructor for this course. My class had nearly 200 students. I had to adapt the course to fit an online mode of delivery.
+
+This has been the most challenging teaching project so far, as, over the summer, I had to adapt a regular course to an online asynchronous setting. While preparing for the course, my priority was to reduce student anxiety, simplify the course delivery as much as possible, and minimize the screen time for students.
+
+\begin{itemize}
+\item
+  \textbf{Textbook:}
+
+  I abandoned the traditional textbooks and chose an online one called \href{https://learn.zybooks.com/zybook/UWOMath2151ANakadeFall2020}{Zybooks}, which had interactive components and provided students with immediate feedback. The book is also highly comprehensive and contains copious amounts of auto-graded exercises and several practice problems, which I assigned weekly to help keep students on track. Finally, the book is exceptionally configurable in terms of content and structure. The textbook can be found here:
+  \href{https://learn.zybooks.com/zybook/UWOMath2151ANakadeFall2020}{learn.zybooks.com/zybook/UWOMath2151ANakadeFall2020}
+\item
+  \textbf{Video Lectures:}
+
+  To minimize the required screen time for students, I made short videos for each topic instead of long ones for each lecture. Having a textbook that I knew would fill in the gaps left out by the short lectures was crucial for making this choice. I embedded these video lectures directly within the textbook to provide a centralized resource to students, much like other online platforms such as Coursera and Kaggle.
+  The video lectures are also available on YouTube at the following link: \url{https://www.youtube.com/playlist?list=PLXAOfwfSuiKm3cL-JftD9ndrjYi7fPcqN}
+\item
+  \textbf{Exam:}
+
+  I decided to use \href{https://webwork.maa.org}{WeBWorK} to make exam problems.
+  I chose WeBWork because it is robust and reliable and allows for internal randomizations within a question and randomization between questions. With my postdoc advisor and two students' help, we designed a repository of several hundred problems for discrete math on WeBWork. This repository is easily portable and adaptable to any discrete math course. An extensive repository of questions enabled me to create unique exams for every student.
+\item
+  \textbf{Rubric for proofs:}
+
+  This course introduced students to proof-writing in addition to logic and combinatorics. Teaching this in an online asynchronous setting was incredibly challenging, as providing students with immediate feedback is impossible. To remedy this, I decided to grade students on only the \emph{writing} part of proofs.
+  I designed the homework questions based on the textbook questions (for which the book provided detailed solutions) and gave students a rubric on which their writing would be graded. The rubric can be found in the \protect\hyperlink{rubric-for-grading-proofs}{Appendix}.
+\item
+  \textbf{Discussion forums:}
+
+  I realized early on that communication would be the key to this course's smooth running.
+  For this reason, I choose Piazza as a discussion forum to answer student questions and encourage them to answer each other's problems.
+  Piazza is very intuitive, easily searchable, and allows for anonymous posts.
+  Anonymized version of my class' discussion forum can be found here: \url{https://piazza.com/demo_login?nid=kd1rr8nxc6z4b5\&auth=f76e59e}
+\end{itemize}
 
 \hypertarget{introduction-to-optimization}{%
 \section{Introduction to Optimization}\label{introduction-to-optimization}}
@@ -302,45 +434,6 @@ I continue to offer a lot of office hours, which still see substantial student a
 
 In Winter 2021, I taught a semester-long course at UWO on Algebraic Topology for graduate students and upper-level undergrads. This was a small class with six graduate and six undergraduate students. The primary textbook for the course was Hatcher. The course covered topics such as the fundamental group, covering spaces, and singular homology. This was a fully online course delivered over Zoom. I used GoodNotes for course delivery. I replaced the final exam with an oral and a written report as I was more interested in testing students' ability to approach a challenging problem than coming up with a rigorous proof under time pressure. The course relied heavily on solving conceptual homework problem sheets, which I paid meticulous attention to developing.
 The problem sheets for this course can be found here: \href{https://github.com/apurvnakade/uwo2021-algebraic-topology/tree/main/output}{problem sets}.
-
-\hypertarget{discrete-structures-for-engineering}{%
-\section{Discrete Structures for Engineering}\label{discrete-structures-for-engineering}}
-
-\emph{University of Western Ontario, Fall 2020}
-
-This was a semester-long four-credit course offered to second-year software engineering students. Students were introduced to fundamental concepts in discrete math, such as logic, combinatorics, modular arithmetic, and proof-writing. I was the only instructor for this course. My class had nearly 200 students. I had to adapt the course to fit an online mode of delivery.
-
-This has been the most challenging teaching project so far, as, over the summer, I had to adapt a regular course to an online asynchronous setting. While preparing for the course, my priority was to reduce student anxiety, simplify the course delivery as much as possible, and minimize the screen time for students.
-
-\begin{itemize}
-\item
-  \textbf{Textbook:}
-
-  I abandoned the traditional textbooks and chose an online one called \href{https://learn.zybooks.com/zybook/UWOMath2151ANakadeFall2020}{Zybooks}, which had interactive components and provided students with immediate feedback. The book is also highly comprehensive and contains copious amounts of auto-graded exercises and several practice problems, which I assigned weekly to help keep students on track. Finally, the book is exceptionally configurable in terms of content and structure. The textbook can be found here:
-  \href{https://learn.zybooks.com/zybook/UWOMath2151ANakadeFall2020}{learn.zybooks.com/zybook/UWOMath2151ANakadeFall2020}
-\item
-  \textbf{Video Lectures:}
-
-  To minimize the required screen time for students, I made short videos for each topic instead of long ones for each lecture. Having a textbook that I knew would fill in the gaps left out by the short lectures was crucial for making this choice. I embedded these video lectures directly within the textbook to provide a centralized resource to students, much like other online platforms such as Coursera and Kaggle.
-  The video lectures are also available on YouTube at the following link: \url{https://www.youtube.com/playlist?list=PLXAOfwfSuiKm3cL-JftD9ndrjYi7fPcqN}
-\item
-  \textbf{Exam:}
-
-  I decided to use \href{https://webwork.maa.org}{WeBWorK} to make exam problems.
-  I chose WeBWork because it is robust and reliable and allows for internal randomizations within a question and randomization between questions. With my postdoc advisor and two students' help, we designed a repository of several hundred problems for discrete math on WeBWork. This repository is easily portable and adaptable to any discrete math course. An extensive repository of questions enabled me to create unique exams for every student.
-\item
-  \textbf{Rubric for proofs:}
-
-  This course introduced students to proof-writing in addition to logic and combinatorics. Teaching this in an online asynchronous setting was incredibly challenging, as providing students with immediate feedback is impossible. To remedy this, I decided to grade students on only the \emph{writing} part of proofs.
-  I designed the homework questions based on the textbook questions (for which the book provided detailed solutions) and gave students a rubric on which their writing would be graded. The rubric can be found in the \protect\hyperlink{rubric-for-grading-proofs}{Appendix}.
-\item
-  \textbf{Discussion forums:}
-
-  I realized early on that communication would be the key to this course's smooth running.
-  For this reason, I choose Piazza as a discussion forum to answer student questions and encourage them to answer each other's problems.
-  Piazza is very intuitive, easily searchable, and allows for anonymous posts.
-  Anonymized version of my class' discussion forum can be found here: \url{https://piazza.com/demo_login?nid=kd1rr8nxc6z4b5\&auth=f76e59e}
-\end{itemize}
 
 \hypertarget{honors-single-variable-calculus}{%
 \section{Honors Single Variable Calculus}\label{honors-single-variable-calculus}}
@@ -425,7 +518,7 @@ We hope to make the book self-contained and a complete replacement for a standar
 I have prior experience with WeBWorK which has helped us get started immediately.
 
 \hypertarget{undergraduate-teaching-awards}{%
-\section{Undergraduate teaching awards}\label{undergraduate-teaching-awards}}
+\section{Undergraduate Teaching Awards}\label{undergraduate-teaching-awards}}
 
 \begin{itemize}
 \tightlist
@@ -559,25 +652,26 @@ The following table lists \emph{median} scores for the questions of \textbf{Inst
 
 \begin{longtable}[]{@{}llll@{}}
 \toprule
-& & Instructor & Course \\
+& & Instructor & Course\tabularnewline
 \midrule
 \endhead
-2022 Spring & Introduction to Optimization & 6/6 & 6/6 \\
-2022 Spring & MENU Linear Algebra and Multivariable Calculus & 6/6 & 5/6 \\
-2022 Winter & MENU Linear Algebra and Multivariable Calculus & 6/6 & 5/6 \\
-2021 Fall & MENU Linear Algebra and Multivariable Calculus & 6/6 & 6/6 \\
-2021 Fall & Single Variable Calculus (coordinated) & 5/6 & 4/6 \\
-2020 Fall & Discrete Structures for Engineering & 7/7 & 7/7 \\
-2019 Fall & Calculus I for Mathematical and Physical Sciences & 6/7 & 6/7 \\
-2018 Fall & Honors Single Variable Calculus & 5/5 & 4/5 \\
-2017 Summer & Differential Equations with Applications & 5/5 & 4/5 \\
-2015 Summer & Differential Equations with Applications & 4/5 & 4/5 \\
-2014 Summer & Online Linear Algebra & 3/5 & 3/5 \\
+2022 Spring & Introduction to Optimization & 6/6 & 6/6\tabularnewline
+2022 Spring & MENU Linear Algebra and Multivariable Calculus & 6/6 & 5/6\tabularnewline
+2022 Winter & MENU Linear Algebra and Multivariable Calculus & 6/6 & 5/6\tabularnewline
+2021 Fall & MENU Linear Algebra and Multivariable Calculus & 6/6 & 6/6\tabularnewline
+2021 Fall & Single Variable Calculus (coordinated) & 5/6 & 4/6\tabularnewline
+2020 Fall & Discrete Structures for Engineering & 7/7 & 7/7\tabularnewline
+2019 Fall & Calculus I for Mathematical and Physical Sciences & 6/7 & 6/7\tabularnewline
+2018 Fall & Honors Single Variable Calculus & 5/5 & 4/5\tabularnewline
+2017 Summer & Differential Equations with Applications & 5/5 & 4/5\tabularnewline
+2015 Summer & Differential Equations with Applications & 4/5 & 4/5\tabularnewline
+2014 Summer & Online Linear Algebra & 3/5 & 3/5\tabularnewline
 \bottomrule
 \end{longtable}
 
 \hypertarget{selected-student-feedback}{%
-\subsection{Selected Student Feedback}\label{selected-student-feedback}}
+\subsection*{Selected Student Feedback}\label{selected-student-feedback}}
+
 
 \begin{itemize}
 \tightlist
@@ -616,7 +710,7 @@ The following table lists \emph{median} scores for the questions of \textbf{Inst
   teaching!\\
 \item
   He is really passionate about the subject and explains things well. He is very funny and approachable in class, and he gives a lot of
-  opportunities for students to ``check their understanding'' by participating in class, working through problems as a class, etc. He
+  opportunities for students to ``check their understanding" by participating in class, working through problems as a class, etc. He
   also would always stay after class for questions if anyone had any.
 \end{itemize}
 

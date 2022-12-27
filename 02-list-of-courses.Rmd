@@ -1,0 +1,30 @@
+# List of Courses
+
+|                                             |                                                                     |
+| ------------------------------------------- | ------------------------------------------------------------------- |
+| 2023 Spring^[Northwestern University]       | Elementary Differential Equations                                   |
+| 2023 Winter                                 | Foundations of Mathematics                                          |
+| 2022-23                                     | MENU Linear Algebra and Multivariable Calculus (Course Coordinator) |
+| 2021-22                                     | MENU Linear Algebra and Multivariable Calculus (Coordinated)        |
+| 2022 Spring                                 | Introduction to Optimization                                        |
+| 2022 Winter                                 | Introduction to Optimization                                        |
+| 2021 Fall                                   | Single Variable Calculus (Coordinated)                              |
+|                                             |                                                                     |
+| 2021 Winter^[University of Western Ontario] | Algebraic Topology                                                  |
+| 2020 Fall                                   | Discrete Structures for Engineering (Online, Asynchronous)          |
+| 2020 Winter                                 | Calculus II for Mathematical and Physical Sciences (Coordinated)    |
+| 2019 Fall                                   | Calculus I for Mathematical and Physical Sciences (Coordinated)     |
+| 2019 Fall                                   | Topics in Category Theory                                           |
+|                                             |                                                                     |
+| 2018 Fall^[Johns Hopkins University]        | Honors Single Variable Calculus                                     |
+| 2018 Winter                                 | Symmetries & Polynomials                                            |
+| 2017 Fall                                   | Honors Single Variable Calculus                                     |
+| 2017 Winter                                 | Hitchhiker's Guide to Algebraic Topology                            |
+| 2017 Summer                                 | Differential Equations with Applications                            |
+| 2015 Summer                                 | Differential Equations with Applications                            |
+| 2014 Summer                                 | Online Linear Algebra                                               |
+|                                             |                                                                     |
+| 2017-20                                     | Various Canada/USA Mathcamp courses                                 |
+| 2018                                        | Canada/USA Mathcamp Academic Coordinator                            |
+
+Below I provide details about several of my courses.
